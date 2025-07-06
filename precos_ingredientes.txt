@@ -1,0 +1,834 @@
+HISTÓRICO DE PREÇOS DOS INGREDIENTES
+====================================
+
+📂 AÇÚCARES E ADOÇANTES
+────────────────────────
+
+🔸 Ingrediente_1ae5ad4f
+   Preço anterior: N/A
+   Preço atual: R$ 3.33
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 24/04/2025
+
+
+📂 BEBIDAS
+───────────
+
+🔸 Ingrediente_a47e11bb
+   Preço anterior: N/A
+   Preço atual: R$ 6.91
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+🔸 Ingrediente_b28d6495
+   Preço anterior: N/A
+   Preço atual: R$ 22.70
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+
+📂 CARNES E DERIVADOS
+──────────────────────
+
+🔸 Ingrediente_9f0fe62a
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 24.59
+   Variação: +100%
+   Fornecedor: Nova Mega G Atacadista De Alimentos
+   Atualizado em: 16/03/2025
+
+🔸 Ingrediente_de8192fb
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 18.65
+   Variação: +100%
+   Fornecedor: Nova Mega G Atacadista De Alimentos
+   Atualizado em: 16/03/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 16.99
+   Variação: +100%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 16.99
+   Preço atual: R$ 16.20
+   Variação: -4.6%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 07/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 16.20
+   Preço atual: R$ 18.00
+   Variação: +11.1%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 13/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 18.00
+   Preço atual: R$ 17.50
+   Variação: -2.8%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 18/05/2025
+
+🔸 Ingrediente_a47e0fc9
+   Preço anterior: N/A
+   Preço atual: R$ 7.60
+   Variação: +100%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 18/05/2025
+
+🔸 Ingrediente_b28d5f38
+   Preço anterior: N/A
+   Preço atual: R$ 11.00
+   Variação: +100%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 25/04/2025
+
+🔸 Ingrediente_de819306
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 9.85
+   Variação: +100%
+   Fornecedor: Goncalves E Tortola Sa - (fl 01027)
+   Atualizado em: 26/05/2025
+
+🔸 Ingrediente_9142bf2b
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 12.50
+   Variação: +100%
+   Fornecedor: Abatedouro De Aves California
+   Atualizado em: 03/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 17.50
+   Preço atual: R$ 17.30
+   Variação: -1.1%
+   Fornecedor: Abatedouro De Aves California
+   Atualizado em: 03/04/2025
+
+🔸 Ingrediente_1ae5a925
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 29.00
+   Variação: +100%
+   Fornecedor: Frigorifico Vale Do Paraiso
+   Atualizado em: 21/03/2025
+
+🔸 Ingrediente_7b5533ec
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 34.50
+   Variação: +100%
+   Fornecedor: Frigorifico Vale Do Paraiso
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_b28d473b
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 25.23
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 04/06/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 17.30
+   Preço atual: R$ 16.79
+   Variação: -2.9%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 27/03/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 16.79
+   Preço atual: R$ 17.90
+   Variação: +6.6%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 10/04/2025
+
+🔸 Ingrediente_9142bf2b
+   Preço anterior: R$ 12.50
+   Preço atual: R$ 12.76
+   Variação: +2.1%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 16/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 17.90
+   Preço atual: R$ 16.79
+   Variação: -6.2%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 16/04/2025
+
+🔸 Ingrediente_a47dfd0d
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 34.99
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_9f0fe678
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 20.70
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+🔸 Ingrediente_b28d629b
+   Preço anterior: N/A
+   Preço atual: R$ 42.82
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 04/06/2025
+
+🔸 Ingrediente_9142beea
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 20.93
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_de8192fb
+   Preço anterior: R$ 18.65
+   Preço atual: R$ 15.65
+   Variação: -16.1%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 05/05/2025
+
+🔸 Ingrediente_a47dfd54
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 27.05
+   Variação: +100%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 20/05/2025
+
+🔸 Ingrediente_d82a5011
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 26.25
+   Variação: +100%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 23/05/2025
+
+🔸 Ingrediente_725a74d0
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 21.55
+   Variação: +100%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 28/04/2025
+
+🔸 Ingrediente_a47dfd51
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 17.30
+   Variação: +100%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 20/05/2025
+
+🔸 Ingrediente_a47dfd26
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 20.22
+   Variação: +100%
+   Fornecedor: Camari Carnes E Conservas
+   Atualizado em: 27/05/2025
+
+🔸 Ingrediente_9f0fe62a
+   Preço anterior: R$ 24.59
+   Preço atual: R$ 28.51
+   Variação: +15.9%
+   Fornecedor: Minerva S A
+   Atualizado em: 15/04/2025
+
+🔸 Ingrediente_9142bf1f
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 31.35
+   Variação: +100%
+   Fornecedor: Minerva S A
+   Atualizado em: 15/04/2025
+
+🔸 Ingrediente_1ae5a925
+   Preço anterior: R$ 29.00
+   Preço atual: R$ 34.08
+   Variação: +17.5%
+   Fornecedor: Minerva S A
+   Atualizado em: 15/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 16.79
+   Preço atual: R$ 16.99
+   Variação: +1.2%
+   Fornecedor: Biunessa & Gazzotti Distribuidora De Alimentos
+   Atualizado em: 11/04/2025
+
+🔸 Ingrediente_de8192fb
+   Preço anterior: R$ 15.65
+   Preço atual: R$ 19.90
+   Variação: +27.2%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_de8192fb
+   Preço anterior: R$ 19.90
+   Preço atual: R$ 16.98
+   Variação: -14.7%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 02/05/2025
+
+🔸 Ingrediente_de819306
+   Preço anterior: R$ 9.85
+   Preço atual: R$ 15.90
+   Variação: +61.4%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_9f0fe62a
+   Preço anterior: R$ 28.51
+   Preço atual: R$ 29.99
+   Variação: +5.2%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_b28977ee
+   Preço anterior: R$ 16.99
+   Preço atual: R$ 28.90
+   Variação: +70.1%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+
+📂 CEREAIS E DERIVADOS
+───────────────────────
+
+🔸 Ingrediente_ffa17449
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 9.75
+   Variação: +100%
+   Fornecedor: Industria De Alimentacao Monjolinho
+   Atualizado em: 02/05/2025
+
+🔸 Ingrediente_b28d4731
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 4.80
+   Variação: +100%
+   Fornecedor: Brasilia Alimentos
+   Atualizado em: 27/05/2025
+
+🔸 Ingrediente_ffa17450
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 5.23
+   Variação: +100%
+   Fornecedor: Brasilia Alimentos
+   Atualizado em: 02/04/2025
+
+🔸 Ingrediente_7b5533c7
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.50
+   Variação: +100%
+   Fornecedor: Brasilia Alimentos
+   Atualizado em: 27/05/2025
+
+🔸 Ingrediente_9f0fe63b
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 4.40
+   Variação: +100%
+   Fornecedor: Brasilia Alimentos
+   Atualizado em: 16/05/2025
+
+🔸 Ingrediente_ffa1862a
+   Preço anterior: N/A
+   Preço atual: R$ 1.65
+   Variação: +100%
+   Fornecedor: Brasilia Alimentos
+   Atualizado em: 27/05/2025
+
+🔸 Ingrediente_7b5533bb
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.85
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 16/04/2025
+
+🔸 Ingrediente_7b5533bb
+   Preço anterior: R$ 6.85
+   Preço atual: R$ 5.52
+   Variação: -19.4%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 04/06/2025
+
+🔸 Ingrediente_ffa17447
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 4.11
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_2bb1ee6c
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 7.65
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 11/06/2025
+
+🔸 Ingrediente_ffa17447
+   Preço anterior: R$ 4.11
+   Preço atual: R$ 6.06
+   Variação: +47.4%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 05/06/2025
+
+🔸 Ingrediente_9142bf12
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 2.99
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 02/05/2025
+
+🔸 Ingrediente_b28d644b
+   Preço anterior: N/A
+   Preço atual: R$ 13.80
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 02/05/2025
+
+🔸 Ingrediente_7b5533d4
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 7.18
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+🔸 Ingrediente_ffa17447
+   Preço anterior: R$ 6.06
+   Preço atual: R$ 23.90
+   Variação: +294.4%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+🔸 Ingrediente_b28d4731
+   Preço anterior: R$ 4.80
+   Preço atual: R$ 4.67
+   Variação: -2.7%
+   Fornecedor: Arf Comercio De Cereais
+   Atualizado em: 09/06/2025
+
+🔸 Ingrediente_7b5533c7
+   Preço anterior: R$ 6.50
+   Preço atual: R$ 6.17
+   Variação: -5.1%
+   Fornecedor: Arf Comercio De Cereais
+   Atualizado em: 09/06/2025
+
+
+📂 GORDURAS E ÓLEOS
+────────────────────
+
+🔸 Ingrediente_ffa1746a
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 9.38
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+🔸 Ingrediente_ffa1746a
+   Preço anterior: R$ 9.38
+   Preço atual: R$ 15.60
+   Variação: +66.3%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 27/03/2025
+
+🔸 Ingrediente_b28d4797
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 7.61
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_b28d4797
+   Preço anterior: R$ 7.61
+   Preço atual: R$ 7.77
+   Variação: +2.1%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 11/06/2025
+
+🔸 Ingrediente_b28d4797
+   Preço anterior: R$ 7.77
+   Preço atual: R$ 7.77
+   Variação: 0.0%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+
+📂 LATICÍNIOS
+──────────────
+
+🔸 Ingrediente_b28d4793
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 32.19
+   Variação: +100%
+   Fornecedor: Nova Mega G Atacadista De Alimentos
+   Atualizado em: 16/03/2025
+
+🔸 Ingrediente_b28d4793
+   Preço anterior: R$ 32.19
+   Preço atual: R$ 34.90
+   Variação: +8.4%
+   Fornecedor: Sf Comercio De Frios E Laticinios
+   Atualizado em: 22/05/2025
+
+🔸 Ingrediente_9142bf0f
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 14.79
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+🔸 Ingrediente_9142bf0f
+   Preço anterior: R$ 14.79
+   Preço atual: R$ 15.40
+   Variação: +4.1%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 10/04/2025
+
+🔸 Ingrediente_9142bf26
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 5.38
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 11/06/2025
+
+🔸 Ingrediente_9142bf26
+   Preço anterior: R$ 5.38
+   Preço atual: R$ 4.98
+   Variação: -7.4%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 24/04/2025
+
+🔸 Ingrediente_9142bf26
+   Preço anterior: R$ 4.98
+   Preço atual: R$ 4.99
+   Variação: +0.2%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_9142bf26
+   Preço anterior: R$ 4.99
+   Preço atual: R$ 5.21
+   Variação: +4.4%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+
+📂 PRODUTOS DE LIMPEZA
+───────────────────────
+
+🔸 Ingrediente_9142c798
+   Preço anterior: N/A
+   Preço atual: R$ 2.10
+   Variação: +100%
+   Fornecedor: Tenda Atacado
+   Atualizado em: 11/06/2025
+
+
+📂 PÃES E BOLOS
+────────────────
+
+🔸 Ingrediente_b28d479c
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 17.89
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 02/05/2025
+
+
+📂 TEMPEROS E CONDIMENTOS
+──────────────────────────
+
+🔸 Ingrediente_6783bf9f
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 29.00
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 18/03/2025
+
+🔸 Ingrediente_b28d4738
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 29.37
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 25/03/2025
+
+🔸 Ingrediente_2bb1ee96
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.78
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_7b5533be
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 7.35
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 11/06/2025
+
+🔸 Ingrediente_2bb1eef9
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 4.87
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 30/05/2025
+
+🔸 Ingrediente_a47dfd62
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 1.69
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_ffa17485
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 29.58
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_ffa1871e
+   Preço anterior: N/A
+   Preço atual: R$ 6.10
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_725a74fc
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 7.95
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 04/06/2025
+
+🔸 Ingrediente_2bb1ee96
+   Preço anterior: R$ 6.78
+   Preço atual: R$ 5.86
+   Variação: -13.6%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 05/05/2025
+
+🔸 Ingrediente_2bb1ee96
+   Preço anterior: R$ 5.86
+   Preço atual: R$ 7.93
+   Variação: +35.3%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 14/05/2025
+
+🔸 Ingrediente_2bb1eef9
+   Preço anterior: R$ 4.87
+   Preço atual: R$ 4.73
+   Variação: -2.9%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 14/05/2025
+
+🔸 Ingrediente_d82a500b
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 37.84
+   Variação: +100%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 14/05/2025
+
+🔸 Ingrediente_ffa17437
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 246.24
+   Variação: +100%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 29/05/2025
+
+🔸 Ingrediente_7b55407d
+   Preço anterior: N/A
+   Preço atual: R$ 42.90
+   Variação: +100%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 15/04/2025
+
+🔸 Ingrediente_b28d63c0
+   Preço anterior: N/A
+   Preço atual: R$ 26.02
+   Variação: +100%
+   Fornecedor: P.s.g Industria E Comercio
+   Atualizado em: 29/05/2025
+
+🔸 Ingrediente_7b5533be
+   Preço anterior: R$ 7.35
+   Preço atual: R$ 13.41
+   Variação: +82.4%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_6783bfca
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 13.98
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+🔸 Ingrediente_9f0fe65b
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 299.50
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+🔸 Ingrediente_b28d4738
+   Preço anterior: R$ 29.37
+   Preço atual: R$ 32.55
+   Variação: +10.8%
+   Fornecedor: Nova Mega G Atacadista De Alimentos
+   Atualizado em: 11/06/2025
+
+
+📂 VERDURAS E HORTALIÇAS
+─────────────────────────
+
+🔸 Ingrediente_9f0ff2cf
+   Preço anterior: N/A
+   Preço atual: R$ 4.50
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 14/03/2025
+
+🔸 Ingrediente_2bb1ee9a
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 3.75
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 14/03/2025
+
+🔸 Ingrediente_6783bfac
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 3.50
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 14/03/2025
+
+🔸 Ingrediente_6783bfb2
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 4.50
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 18/03/2025
+
+🔸 Ingrediente_ffa1742f
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 3.50
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 18/03/2025
+
+🔸 Ingrediente_b28d47b8
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.43
+   Variação: +100%
+   Fornecedor: Orival Dorival Borromeu Biagiotti
+   Atualizado em: 18/03/2025
+
+🔸 Ingrediente_7b553f20
+   Preço anterior: N/A
+   Preço atual: R$ 30.23
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_9f0fe646
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 13.55
+   Variação: +100%
+   Fornecedor: Batatas Premium
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_725a74dd
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 12.76
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 09/05/2025
+
+🔸 Ingrediente_725a74dd
+   Preço anterior: R$ 12.76
+   Preço atual: R$ 12.74
+   Variação: -0.2%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_2bb1ee80
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 13.02
+   Variação: +100%
+   Fornecedor: Bispo Dist De Produt Alimenticios
+   Atualizado em: 16/04/2025
+
+🔸 Ingrediente_de8192e6
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 17.25
+   Variação: +100%
+   Fornecedor: Vz Industria De Alimentos
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_b28d4754
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 15.80
+   Variação: +100%
+   Fornecedor: Vz Industria De Alimentos
+   Atualizado em: 06/06/2025
+
+🔸 Ingrediente_9142bf09
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 16.00
+   Variação: +100%
+   Fornecedor: Vz Industria De Alimentos
+   Atualizado em: 02/06/2025
+
+🔸 Ingrediente_ffa17463
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.50
+   Variação: +100%
+   Fornecedor: Marta Elaine Oliveira Massoni
+   Atualizado em: 29/05/2025
+
+🔸 Ingrediente_2bb1ee80
+   Preço anterior: R$ 13.02
+   Preço atual: R$ 16.60
+   Variação: +27.5%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_2bb1ee80
+   Preço anterior: R$ 16.60
+   Preço atual: R$ 14.60
+   Variação: -12.0%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_2bb1ee80
+   Preço anterior: R$ 14.60
+   Preço atual: R$ 29.75
+   Variação: +103.8%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_2bb1ee80
+   Preço anterior: R$ 29.75
+   Preço atual: R$ 26.60
+   Variação: -10.6%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 01/04/2025
+
+🔸 Ingrediente_ffa1742f
+   Preço anterior: R$ 3.50
+   Preço atual: R$ 2.99
+   Variação: -14.6%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 02/05/2025
+
+🔸 Ingrediente_b28d47a6
+   Preço anterior: R$ 0.00
+   Preço atual: R$ 6.90
+   Variação: +100%
+   Fornecedor: Supermercado Canesin
+   Atualizado em: 03/06/2025
+
+

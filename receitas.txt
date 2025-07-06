@@ -1,0 +1,5842 @@
+RECEITAS COM DADOS TÉCNICOS
+===========================
+
+1. Abobrinha Assada
+-------------------
+
+INGREDIENTES (1kg base):
+• Abobrinha: 880.3g
+• Azeite: 70.4g
+• Alho: 26.4g
+• Sal: 17.6g
+• Pimenta-do-reino: 5.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.837
+• Peso final estimado: 837.3g
+• Perda de peso: 16.3%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 77.2 kcal
+• Proteínas: 1.1g
+• Gorduras: 7.3g
+• Carboidratos: 2.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+2. Almôndega ao Molho
+---------------------
+
+INGREDIENTES (1kg base):
+• Farinha de trigo: 50.7g
+• Farinha de rosca: 50.7g
+• Cebola: 50.7g
+• Pimenta: 1.5g
+• Creme De Cebola: 50.7g
+• Salsa: 10.1g
+• Molho de tomate: 152.1g
+• Queijo mussarela: 50.7g
+• Molho: 50.7g
+• Queijo: 50.7g
+• Coxão duro: 202.7g
+• Carne: 202.7g
+• Bacon: 76.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.857
+• Peso final estimado: 857.3g
+• Perda de peso: 14.3%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 68.9 kcal
+• Proteínas: 6.2g
+• Gorduras: 4.0g
+• Carboidratos: 1.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+3. Arroz Branco
+---------------
+
+INGREDIENTES (1kg base):
+• Arroz: 352.9g
+• Óleo: 58.8g
+• Água: 588.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.492
+• Peso final estimado: 1492.0g
+• Ganho de peso: 49.2%
+• Tempo de preparo: 25-30 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 9-10 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 97.9 kcal
+• Proteínas: 1.0g
+• Gorduras: 6.0g
+• Carboidratos: 9.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Proporção água/arroz fundamental para textura adequada
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+4. Baby Beef à Parmegiana
+-------------------------
+
+INGREDIENTES (1kg base):
+• Carne Suja: 963.9g
+• Alho: 36.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.798
+• Peso final estimado: 797.9g
+• Perda de peso: 20.2%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 241.0 kcal
+• Proteínas: 25.1g
+• Gorduras: 14.5g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+5. Bacalhau Cremoso
+-------------------
+
+INGREDIENTES (1kg base):
+• Bacalhau Em Lasca: 214.3g
+• Batata: 285.7g
+• Creme de leite: 178.6g
+• Leite: 178.6g
+• Queijo Prato: 71.4g
+• Parmesão Cobertura: 71.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.876
+• Peso final estimado: 876.3g
+• Perda de peso: 12.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 45.1 kcal
+• Proteínas: 2.3g
+• Gorduras: 1.0g
+• Carboidratos: 6.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+6. Banana Assada
+----------------
+
+INGREDIENTES (1kg base):
+• Oleo De Soja: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.8
+• Peso final estimado: 800.0g
+• Perda de peso: 20.0%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+7. Batata Rustica
+-----------------
+
+INGREDIENTES (1kg base):
+• Batata-doce: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 77.0 kcal
+• Proteínas: 2.0g
+• Gorduras: 0.1g
+• Carboidratos: 17.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+8. Berinjela a Milanesa
+-----------------------
+
+INGREDIENTES (1kg base):
+• Berinjela: 833.3g
+• Queijo parmesão: 133.3g
+• Mandar A Parte Um Pouco De Vinagrete: 33.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.881
+• Peso final estimado: 880.6g
+• Perda de peso: 11.9%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 15.1 kcal
+• Proteínas: 0.9g
+• Gorduras: 1.2g
+• Carboidratos: 0.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+9. Bife Acebolado
+-----------------
+
+INGREDIENTES (1kg base):
+• Bife: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+10. Copa Lombo na Panela
+------------------------
+
+INGREDIENTES (1kg base):
+• Cebola: 40.5g
+• Abóbora Cabotiá: 202.6g
+• Abobrinha: 202.6g
+• Parmesão Ralado: 40.5g
+• Tomate: 121.6g
+• Molho de tomate: 121.6g
+• Leite De Coco: 101.3g
+• Farinha de trigo: 40.5g
+• Alho Fesco: 6.1g
+• Leite: 101.3g
+• Azeite: 16.2g
+• Pimenta: 1.2g
+• Sal: 4.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.898
+• Peso final estimado: 897.8g
+• Perda de peso: 10.2%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 32.3 kcal
+• Proteínas: 1.2g
+• Gorduras: 1.9g
+• Carboidratos: 3.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+11. Bolinho de Arroz
+--------------------
+
+INGREDIENTES (1kg base):
+• Arroz Pronto: 952.4g
+• Alho Refogado: 47.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 2.507
+• Peso final estimado: 2506.9g
+• Ganho de peso: 150.7%
+• Tempo de preparo: 25-30 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 14-17 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 123.8 kcal
+• Proteínas: 2.6g
+• Gorduras: 0.3g
+• Carboidratos: 26.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+• Proporção água/arroz fundamental para textura adequada
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+12. Bolinho de Arroz com Pernil
+-------------------------------
+
+INGREDIENTES (1kg base):
+• Tomate Sem Semente: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.828
+• Peso final estimado: 828.2g
+• Perda de peso: 17.2%
+• Tempo de preparo: 25-30 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 18.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 3.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Proporção água/arroz fundamental para textura adequada
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+13. Bolinho de Mandioca Cremosa
+-------------------------------
+
+INGREDIENTES (1kg base):
+• Mandioca Cozida: 285.7g
+• Parmesão Da Massa: 214.3g
+• Mussarela Recheio: 71.4g
+• Moer A Mandioca: 285.7g
+• E Adiocionar A Farinha Aos Poucos: 71.4g
+• Rechear Com Mussarela: 71.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.246
+• Peso final estimado: 1246.1g
+• Ganho de peso: 24.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 7-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+14. Bolo de Banana
+------------------
+
+INGREDIENTES (1kg base):
+• Ovos: 375.0g
+• Farinha: 625.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 58.1 kcal
+• Proteínas: 4.9g
+• Gorduras: 4.1g
+• Carboidratos: 0.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+15. Cabotia Refogado
+--------------------
+
+INGREDIENTES (1kg base):
+• Feijão: 5.0g
+• Sobrecoxa De Frango Assada: 10.0g
+• Frango Assado Com Batata: 10.0g
+• Almondega Ao Molho: 2.5g
+• Bife A Parmeggiana: 10.0g
+• Coxinhas De Frango Assadas: 10.0g
+• Strogonoff De Frango: 10.0g
+• Frango A Milanesa: 10.0g
+• Cenoura E Ervilha Refogadas: 3.8g
+• Abobrinha Assada: 12.5g
+• Purê De Batata: 10.0g
+• Creme De Milho: 5.0g
+• Berinjela Empanada: 12.5g
+• Creme De Mandioca E Calabresa: 5.0g
+• Torta De Iogurte: 5.0g
+• Macarrão: 7.5g
+• Alface: 3.8g
+• Batata Palha: 10.0g
+• Tomate: 7.5g
+• Salada De Macarrão: 7.5g
+• Carne Moida Refogada: 10.0g
+• Linguiça Toscana: 7.5g
+• Vagem Com Ovos: 7.5g
+• Bife De Carne Com Cebola E Tomate: 10.0g
+• Strogonoff De Carne: 10.0g
+• Carne Na Cerveja Preta: 10.0g
+• Pure De Batata: 10.0g
+• Salada De Grãos: 0.3g
+• Maionese De Batata: 10.0g
+• File Mignon Suino Acebolado: 2.5g
+• File De Frango Ao Molho De Queijo: 10.0g
+• File De Frango A Milanesa: 10.0g
+• Couve Refogada: 5.0g
+• Costela Bovina Assada: 2.5g
+• Rocambole De Carne: 10.0g
+• File De Peixe Assado Com Legumes: 10.0g
+• Bacalhau Cremoso: 7.5g
+• Frango A Parmeggiana: 10.0g
+• Creme De Alho Poro E Palmito: 0.4g
+• Mandioca Cremosa: 10.0g
+• Purê De Batatas: 10.0g
+• Lasanha A Bolonhesa: 2.5g
+• Vinagrete: 0.5g
+• Fraldinha Molho De Mostarda: 2.5g
+• Lasanha 4 Queijos: 2.5g
+• Maminha Ao Molho: 2.5g
+• Cenoura E Ervilha: 3.8g
+• Salada De Ropolho Roxo E Maça: 0.3g
+• Berinjela A Parmeggiana: 12.5g
+• Salada De Brócolis: 10.0g
+• Arroz: 7.5g
+• File De Frango Grelhado: 10.0g
+• Costela Assada Com Mandioca: 10.0g
+• Fricasse De Frango: 10.0g
+• Frango Supremo: 10.0g
+• Pãozinho De Salsicha: 0.3g
+• Frango Oriental: 10.0g
+• Coxa De Frango Assada: 10.0g
+• Milho Refogado: 5.0g
+• Batata Assada: 10.0g
+• Purê De Batata Com Queijo: 10.0g
+• Creme De Espinafre: 5.0g
+• Torta Salgada: 0.3g
+• Salada De Berinjela: 12.5g
+• Salada De Berinjela Frita: 12.5g
+• File De Frango A Parmeggiana: 10.0g
+• Polpetone De Carne Com Queijo: 10.0g
+• Salada Simples: 0.3g
+• Arroz integral: 7.5g
+• Frango Pizzaiolo: 10.0g
+• Batata Rustica: 10.0g
+• Saladas: 0.3g
+• Alface Lisa: 3.8g
+• Cenoura: 7.5g
+• File De Frango Com Cebola E Tomate: 10.0g
+• Carne De Panela Com Batata: 10.0g
+• Pimenta Doce: 0.1g
+• Abobrinha Refogada: 12.5g
+• Alface Crespa: 3.8g
+• Feijão Gordo: 5.0g
+• Frango Assado Crocante: 10.0g
+• Sobrecoxa Desossada Assada: 10.0g
+• File De Frango Aos 4 Queijos: 10.0g
+• Repolho Com Bacon: 3.8g
+• Omelete Ao 3 Queijos: 2.5g
+• Alface Americana: 3.8g
+• File De Frango Com Alho Poro E Queijo: 10.0g
+• Frango Na Panela: 10.0g
+• File De Peixe Assado Com Tomate: 10.0g
+• Berinjela A Milanesa: 12.5g
+• Bife A Rolê: 10.0g
+• Bife Acebolado: 2.5g
+• File De Frango Acebolado: 10.0g
+• Panqueca De Carne: 10.0g
+• Hamburguer De Salmão: 10.0g
+• Pernil Ao Molho Barbecue: 2.5g
+• Costela Com Mandioca: 10.0g
+• File De Frango Recheado: 10.0g
+• Linguiça Toscana Assada: 7.5g
+• Salada: 0.3g
+• Feijão Com Bacon: 3.8g
+• Farofa De Alho: 0.4g
+• Farofa Ovos E Bacon: 3.8g
+• Farofa Bacon, Milho E Azeitona: 3.8g
+• Farofa Bacon E Azeitona: 3.8g
+• Farofa Bacon E Calabresa: 3.8g
+• Batata Rustica Assada: 10.0g
+• Torta De Tomate E Queijo: 7.5g
+• Omelete De Alho Poro E Quijo: 0.4g
+• Sofiatelli De Queijo: 2.5g
+• Torta De Palmito E Alho Poro: 0.4g
+• Ervilha Refogada: 3.8g
+• Pure De Mandioca: 10.0g
+• Isca De Carne: 10.0g
+• Cupim Ao Molho: 2.5g
+• Batata Sautê: 10.0g
+• Quiche De Bacon: 3.8g
+• Batata Com Parmesão: 10.0g
+• Beterraba: 7.5g
+• Polpetone De Carne: 10.0g
+• Frango Crocante: 10.0g
+• Rabada Ao Molho: 2.5g
+• Sobrecoxa Com Mostarda: 10.0g
+• Sobrecoxa Com Creme De Cebola: 2.5g
+• Farofa De Cebola Caramelizada: 2.5g
+• Torta De Frango: 10.0g
+• Repolho: 7.5g
+• Maionese Com Presunto: 5.0g
+• Ponta De Peito: 10.0g
+• File De Frango Com Bacon: 10.0g
+• File De Frango Com Alho Poro: 10.0g
+• Farofa Cebola E Passas: 2.5g
+• Torta De Abobrinha: 12.5g
+• Berinjela Parmeggiana: 12.5g
+• Sofiateli De Queijo: 2.5g
+• Cupim Em Bife: 10.0g
+• Fraldinha Ao Molho: 2.5g
+• Peixe A Baiana: 10.0g
+• Batata Doce Assada: 10.0g
+• Farofa De Ovos: 3.0g
+• Farofa De Alho E Bacon: 3.8g
+• Farofa Cebola Caramelizada: 2.5g
+• Maionese Com Bacon: 3.8g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.877
+• Peso final estimado: 877.1g
+• Perda de peso: 12.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 94.5 kcal
+• Proteínas: 12.1g
+• Gorduras: 3.1g
+• Carboidratos: 3.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+16. Carne de Panela
+-------------------
+
+INGREDIENTES (1kg base):
+• Coxinha De Frango: 166.0g
+• Carne Moida Com Batata: 166.0g
+• Carne Assada: 166.0g
+• Sobrecoxa de frango: 166.0g
+• Rocambole De Frango: 166.0g
+• Peixe Assado: 166.0g
+• Brocolis Salada: 4.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.743
+• Peso final estimado: 743.2g
+• Perda de peso: 25.7%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 199.4 kcal
+• Proteínas: 27.7g
+• Gorduras: 8.8g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+17. Cenoura e Ervilha
+---------------------
+
+INGREDIENTES (1kg base):
+• Ervilha: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+18. Charuto de Repolho com Carne
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Carne Moida: 73.7g
+• Pimenta Molho: 18.4g
+• 1. º) Em Uma Panela Com Água Fervente, Coloque As Folhas De Repolho E Deixe Aferventando Por 5 Minutos. Escorra As Folhas E Com Uma Faca Retire O Talo Central. Reserve.: 55.3g
+• 2. º) Em Uma Tigela, Misture ¼ Xícara (chá) De Arroz Cru, 250 G De Carne Moída, ½ Tomate Picado Sem Sementes, ¼ De Cebola Ralada,: 73.7g
+• ½ De Colher (chá) De Pimenta Dedo-de-moça Sem Sementes Picada, ¼ De Colher (chá) De Alho Picado, 3 Colheres (sopa) De Azeite, Sal E Salsinha Picada A Gosto. Reserve.: 2.8g
+• 3. º) Em Uma Outra Tigela, Misture 2 Xícaras (chá) De Molho De Tomate E 1 Xícara (chá) De Água.: 55.3g
+• 4. º) Retire ¾ Xícara (chá) Da Mistura De Molho De Tomate Com Água E Adicione Na Tigela Com A Carne Moída.: 73.7g
+• 5. º) Em Uma Superfície, Coloque 1 Folha De Repolho E No Centro Coloque 2 Colheres (sopa) De Recheio De Carne Moída,: 73.7g
+• 6. º) Em Uma Panela De Pressão, Coloque O Restante Da Mistura De Molho De Tomate Com Água E Disponha: 55.3g
+• Cuidadosamente Os Charutos De Repolho No Fundo Da Panela. Tampe A Panela, Leve Ao Fogo Médio E, Após Pegar Pressão, Conte 20 Minutos.: 55.3g
+• Deixe Sair A Pressão Naturalmente E Sirva Em Seguida Com Salada De Folhas.: 1.8g
+• Arroz Branco 2 Kg: 55.3g
+• Feijão Gordo 1kg: 36.9g
+• Frango De Panela: 73.7g
+• Salada De Tomate: 55.3g
+• Arroz Branco 7kg: 55.3g
+• Feijão 2kg: 36.9g
+• Baby Beef Ao Molho De Cogumelos: 18.4g
+• Salada De Cenoura: 55.3g
+• Maionese De Batata Com Azeitona E Milho: 73.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.133
+• Peso final estimado: 1132.8g
+• Ganho de peso: 13.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 6-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 123.0 kcal
+• Proteínas: 11.3g
+• Gorduras: 5.1g
+• Carboidratos: 7.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+19. Costela com Mandioca
+------------------------
+
+INGREDIENTES (1kg base):
+• Costela: 200.0g
+• Mandioca: 800.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+20. Costelinha de Porco
+-----------------------
+
+INGREDIENTES (1kg base):
+• Vinagre: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+21. Coxa de Frango Crocante
+---------------------------
+
+INGREDIENTES (1kg base):
+• Frango: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.725
+• Peso final estimado: 724.7g
+• Perda de peso: 27.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 165.0 kcal
+• Proteínas: 31.0g
+• Gorduras: 3.6g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+22. Creme de Coco
+-----------------
+
+INGREDIENTES (1kg base):
+• Leite condensado: 136.4g
+• Leite: 227.3g
+• Amido de milho: 181.8g
+• Creme de leite: 227.3g
+• Leite De Coco: 227.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.965
+• Peso final estimado: 964.7g
+• Perda de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 34.4 kcal
+• Proteínas: 2.8g
+• Gorduras: 0.8g
+• Carboidratos: 4.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+23. Creme de Espinafre
+----------------------
+
+INGREDIENTES (1kg base):
+• Cebola Molho: 153.8g
+• Leite: 384.6g
+• Espinafre: 307.7g
+• Sal Molho: 153.8g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.912
+• Peso final estimado: 911.8g
+• Perda de peso: 8.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 22.3 kcal
+• Proteínas: 1.5g
+• Gorduras: 0.4g
+• Carboidratos: 3.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+24. Creme de Milho
+------------------
+
+INGREDIENTES (1kg base):
+• Margarina Molho: 74.1g
+• Farinha De Trigo Molho: 123.5g
+• Leite B Molho: 308.6g
+• Milho Batido: 246.9g
+• Milho Inteiro: 246.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.912
+• Peso final estimado: 911.9g
+• Perda de peso: 8.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 13.0 kcal
+• Proteínas: 1.0g
+• Gorduras: 0.3g
+• Carboidratos: 1.5g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+25. Creme Holandes
+------------------
+
+INGREDIENTES (1kg base):
+• Em Uma Panela, Misture O Leite Moça, O Leite Ninho, As Gemas E O Amido De Milho E O Leite, Leve Ao Fogo, Mexendo Sempre Até Engrossar. Deixe Esfriar E Reserve.: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+26. Crepioca de Massa Esta Pronta Já
+------------------------------------
+
+INGREDIENTES (1kg base):
+• Recheio Atum: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+27. Croquete de Carne
+---------------------
+
+INGREDIENTES (1kg base):
+• Carne Cozida: 800.0g
+• Farinha De Rosca P/ Emp: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.797
+• Peso final estimado: 797.2g
+• Perda de peso: 20.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 200.0 kcal
+• Proteínas: 20.8g
+• Gorduras: 12.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+28. Cupim
+---------
+
+INGREDIENTES (1kg base):
+• Feijão 1kg: 23.3g
+• Batata: 46.5g
+• De Arroz: 34.9g
+• De Carne: 46.5g
+• De Feijão: 23.3g
+• Sobrecoxa Desossada: 46.5g
+• De Farinha: 23.3g
+• Bife A Parmeggiana 1: 46.5g
+• Carne Moida Com Batata 1: 46.5g
+• Carne Na Cerveja Preta 1: 46.5g
+• Coxinha De Frango 2: 46.5g
+• File De Frango A Milanesa 2: 46.5g
+• File De Frango Ao Molho De Queijo 2: 46.5g
+• File De Peixe Assado Com Legumes 2: 46.5g
+• Fraldinha Molho De Mostarda 1: 11.6g
+• Frango Assado Com Batata 2: 46.5g
+• Frango Na Panela 2: 46.5g
+• Frango Supremo 2: 46.5g
+• Fricasse De Frango 2: 46.5g
+• Peixe Assado 1: 46.5g
+• Sobrecoxa De Frango Assada 2: 46.5g
+• Sobrecoxa Desossada 2: 46.5g
+• Strogonoff De Carne 1: 46.5g
+• Strogonoff De Frango 2: 46.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.911
+• Peso final estimado: 910.9g
+• Perda de peso: 8.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 148.7 kcal
+• Proteínas: 20.5g
+• Gorduras: 5.5g
+• Carboidratos: 2.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+29. Dobradinha
+--------------
+
+INGREDIENTES (1kg base):
+• Sal Do Intestino: 43.1g
+• Vinagre Do Intestino: 86.2g
+• Calabresa: 862.1g
+• Louro: 8.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.887
+• Peso final estimado: 886.7g
+• Perda de peso: 11.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+30. Escondidinho de
+-------------------
+
+INGREDIENTES (1kg base):
+• Massa De Mandioca: 400.0g
+• Farinha de mandioca: 400.0g
+• Milho: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.563
+• Peso final estimado: 1563.3g
+• Ganho de peso: 56.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 9-10 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+31. Feijoada Completa (ok)
+--------------------------
+
+INGREDIENTES (1kg base):
+• Sal Lombo: 23.4g
+• Alho Lombo: 35.0g
+• Pimenta Lombo: 7.0g
+• Carne seca: 934.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.787
+• Peso final estimado: 786.9g
+• Perda de peso: 21.3%
+• Tempo de preparo: 120-180 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 233.7 kcal
+• Proteínas: 24.3g
+• Gorduras: 14.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+32. Filé de Frango a Milanesa
+-----------------------------
+
+INGREDIENTES (1kg base):
+• File De Frango: 975.6g
+• Temperar A Farinha Com Oregano Sal E Paprica: 24.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.749
+• Peso final estimado: 748.9g
+• Perda de peso: 25.1%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 161.0 kcal
+• Proteínas: 30.2g
+• Gorduras: 3.5g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+33. Fraldiinha ao Molho
+-----------------------
+
+INGREDIENTES (1kg base):
+• Fraldinha Ao Molho Ferrugem: 500.0g
+• Molho Shoyo: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+34. Filé de Frango ao Molho de Requeijão
+----------------------------------------
+
+INGREDIENTES (1kg base):
+• Filé de frango: 496.9g
+• Tempero Pronto: 6.2g
+• Óleo Girassol: 62.1g
+• Leite Semi Desnatado: 310.6g
+• Requeijão Cremoso Ligth: 124.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.865
+• Peso final estimado: 864.8g
+• Perda de peso: 13.5%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 149.9 kcal
+• Proteínas: 16.5g
+• Gorduras: 8.3g
+• Carboidratos: 1.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+35. Frango com Mostarda
+-----------------------
+
+INGREDIENTES (1kg base):
+• Requeijão: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+36. Coxa e Sobrecoxa
+--------------------
+
+INGREDIENTES (1kg base):
+• Coxa de frango: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.725
+• Peso final estimado: 724.7g
+• Perda de peso: 27.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 165.0 kcal
+• Proteínas: 31.0g
+• Gorduras: 3.6g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+37. Filé de Frango com Reqiejão
+-------------------------------
+
+INGREDIENTES (1kg base):
+• Molho De Queijo: 274.0g
+• Leite B: 684.9g
+• Alho Poro: 41.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.965
+• Peso final estimado: 965.1g
+• Perda de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 59.7 kcal
+• Proteínas: 4.2g
+• Gorduras: 3.2g
+• Carboidratos: 3.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+38. Frango na Panela
+--------------------
+
+INGREDIENTES (1kg base):
+• Frango Com Osso: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.725
+• Peso final estimado: 724.7g
+• Perda de peso: 27.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 165.0 kcal
+• Proteínas: 31.0g
+• Gorduras: 3.6g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+39. Frango Oriental
+-------------------
+
+INGREDIENTES (1kg base):
+• Farinha Para Engrossar: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+40. Filé de Frango Recheado ao Molho
+------------------------------------
+
+INGREDIENTES (1kg base):
+• Presunto: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+41. Filé de Frango Supremo
+--------------------------
+
+INGREDIENTES (1kg base):
+• Requeijão Cremoso: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+42. Fricassê de Frango
+----------------------
+
+INGREDIENTES (1kg base):
+• Milho verde: 500.0g
+• Farinha De Trigo Torrada Molho: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+43. Galinhada
+-------------
+
+INGREDIENTES (1kg base):
+• Arroz Branco Cru: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 2.588
+• Peso final estimado: 2588.2g
+• Ganho de peso: 158.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 15-17 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 130.0 kcal
+• Proteínas: 2.7g
+• Gorduras: 0.3g
+• Carboidratos: 28.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+44. Gema Pasteurizada
+---------------------
+
+INGREDIENTES (1kg base):
+• Limão: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+45. Hambúrguer de Salmão Assado
+-------------------------------
+
+INGREDIENTES (1kg base):
+• Salmão Picado: 500.0g
+• Cebola Refogada: 125.0g
+• Tomate Refogado: 375.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.853
+• Peso final estimado: 852.9g
+• Perda de peso: 14.7%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 11.8 kcal
+• Proteínas: 0.5g
+• Gorduras: 0.1g
+• Carboidratos: 2.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+46. Bife de Carne com Cebola
+----------------------------
+
+INGREDIENTES (1kg base):
+• Orégano: 5.0g
+• 1- Dica: Corte- O Em 4 Partes E Deixe De Molho Em Água Com Sal Por Cerca De 15 Minutos Antes De Cozinhar.: 497.5g
+• 2- Dica: Coloque Os Jilós Cortados Em Uma Vasilha Com Água Gelada E Pedras De Gelo.: 497.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.957
+• Peso final estimado: 957.3g
+• Perda de peso: 4.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+47. Lasanha
+-----------
+
+INGREDIENTES (1kg base):
+• Molho Branco: 500.0g
+• Gorgonzola: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+48. Lasanha ao Sugo
+-------------------
+
+INGREDIENTES (1kg base):
+• Massa Lasanha G = 14x10: 500.0g
+• Massa Lasanha P = 11,5x8: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 2.588
+• Peso final estimado: 2588.2g
+• Ganho de peso: 158.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 15-17 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+49. Lasanha de Frango
+---------------------
+
+INGREDIENTES (1kg base):
+• Frango Desfiado: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.725
+• Peso final estimado: 724.7g
+• Perda de peso: 27.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 165.0 kcal
+• Proteínas: 31.0g
+• Gorduras: 3.6g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+50. Linguiça
+------------
+
+INGREDIENTES (1kg base):
+• Linguiça: 59.7g
+• Esc. E Mandioca Crmeosa: 79.6g
+• Molho Rose: 19.9g
+• Molho Strogonoff: 19.9g
+• Isca De Frango: 79.6g
+• Carne Em Cusbos Pronta: 79.6g
+• Molho De Queijos: 19.9g
+• Salada De Grão De Bico: 2.0g
+• Salada De Lentilha: 39.8g
+• Recheio Abobrinha E Alho Poro: 99.5g
+• Recheio Tomate Seco: 59.7g
+• Recheio Alho Poro E Palmito: 3.0g
+• Recheio Abobrinha Recofagafogada: 99.5g
+• Batata-doce: 79.6g
+• Cupim Ao Molho De Cebola Caramelizada: 19.9g
+• File De Frango: 79.6g
+• Picadinho De Carne: 79.6g
+• Rabanete: 19.9g
+• Repolho: 59.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.897
+• Peso final estimado: 897.2g
+• Perda de peso: 10.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 79.7 kcal
+• Proteínas: 9.7g
+• Gorduras: 3.2g
+• Carboidratos: 2.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+51. Maionese Caseira
+--------------------
+
+INGREDIENTES (1kg base):
+• Dente De Alho Pequeno: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+52. Milho Refogado
+------------------
+
+INGREDIENTES (1kg base):
+• Alho Fresnco: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+53. Mix de Legumes Cubos Grandes
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Pimentao Verm: 1.1g
+• Pimentao Amarelo: 1.1g
+• Batata Saute: 146.7g
+• Salada Completa: 3.7g
+• Proteina File Acebolado: 36.7g
+• Proteina Com Molho: 36.7g
+• Ovos Batidos Com Presunto, Queijo, Tomate E Oregano: 73.3g
+• Ovos Batidos Com Presunto, Queijo, Tomate E Oregano + Salada: 73.3g
+• Carne Do Dia: 146.7g
+• Prato: Moqueca De Peixe: 146.7g
+• Peixe: 146.7g
+• Pimentao Verde: 1.1g
+• Pimentao Vermelho: 1.1g
+• Sal Legumes: 3.7g
+• Azeite De Dende Dos Legumes: 14.7g
+• Azeite Legumes: 14.7g
+• Alho Fresco Molho: 5.5g
+• Azeite Molho: 14.7g
+• Salsa (cheiro Verde): 7.3g
+• Azeite De Dende Do Molho: 14.7g
+• Farinha De Arroz Molho: 110.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.011
+• Peso final estimado: 1011.0g
+• Ganho de peso: 1.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 198.9 kcal
+• Proteínas: 12.8g
+• Gorduras: 13.3g
+• Carboidratos: 6.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+54. Mousse
+----------
+
+INGREDIENTES (1kg base):
+• Creme de leite: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+55. Panqueca de Queijo
+----------------------
+
+INGREDIENTES (1kg base):
+• Gramas De Recheio De Queijo Por Panqueca: 250.0g
+• Molho Até 540g: 250.0g
+• Mussarela Cobertura 40g: 250.0g
+• Mussarela Cobertura: 250.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.893
+• Peso final estimado: 892.9g
+• Perda de peso: 10.7%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 28.2 kcal
+• Proteínas: 1.8g
+• Gorduras: 2.2g
+• Carboidratos: 0.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+56. Peixe com Cebola e Tomate
+-----------------------------
+
+INGREDIENTES (1kg base):
+• Pimenta: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+57. Pernil na Panela
+--------------------
+
+INGREDIENTES (1kg base):
+• Cebola Petalas: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 40.0 kcal
+• Proteínas: 1.1g
+• Gorduras: 0.1g
+• Carboidratos: 9.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+58. Pavê de Pessego
+-------------------
+
+INGREDIENTES (1kg base):
+• Leite Em Pó: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+59. Polpetone de Carne
+----------------------
+
+INGREDIENTES (1kg base):
+• Carne: 666.7g
+• Mussarela Com Presunto: 333.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.811
+• Peso final estimado: 811.0g
+• Perda de peso: 18.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 166.7 kcal
+• Proteínas: 17.3g
+• Gorduras: 10.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+60. Nhoque de Batata-doce
+-------------------------
+
+INGREDIENTES (1kg base):
+• Pure De Batata Doce: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 77.0 kcal
+• Proteínas: 2.0g
+• Gorduras: 0.1g
+• Carboidratos: 17.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+61. Salada de Berinjela
+-----------------------
+
+INGREDIENTES (1kg base):
+• Pimentaão Colorido: 29.1g
+• Cebola Cubinhos: 970.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cru
+• Fator de rendimento: 0.85
+• Peso final estimado: 850.0g
+• Perda de peso: 15.0%
+• Tempo de preparo: 10-15 min
+• Temperatura: Ambiente
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 38.8 kcal
+• Proteínas: 1.1g
+• Gorduras: 0.1g
+• Carboidratos: 9.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+62. Salada de Beterraba Assada
+------------------------------
+
+INGREDIENTES (1kg base):
+• Beterraba Descascada: 967.7g
+• Manjericão: 32.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.8
+• Peso final estimado: 800.0g
+• Perda de peso: 20.0%
+• Tempo de preparo: 10-15 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+63. Salada de Macarrão
+----------------------
+
+INGREDIENTES (1kg base):
+• Queijo Picado: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cru
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 10-15 min
+• Temperatura: Ambiente
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 113.0 kcal
+• Proteínas: 7.0g
+• Gorduras: 9.0g
+• Carboidratos: 1.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+64. Salada de Grãos
+-------------------
+
+INGREDIENTES (1kg base):
+• Cenoura Relada: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cru
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 10-15 min
+• Temperatura: Ambiente
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 41.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 10.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+65. Salsicha ao Molho
+---------------------
+
+INGREDIENTES (1kg base):
+• Salsicha: 32.3g
+• Molho De Tomate: 967.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.854
+• Peso final estimado: 853.9g
+• Perda de peso: 14.6%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 17.4 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 3.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+66. Strogonoff de Carne
+-----------------------
+
+INGREDIENTES (1kg base):
+• Molho Inglês: 500.0g
+• Sal Final: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.958
+• Peso final estimado: 957.6g
+• Perda de peso: 4.2%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+67. Tabule
+----------
+
+INGREDIENTES (1kg base):
+• Trigo Pra Kibe: 200.0g
+• Pepino: 400.0g
+• Feijão carioca: 400.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.48
+• Peso final estimado: 1480.5g
+• Ganho de peso: 48.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 8-10 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 50.8 kcal
+• Proteínas: 3.6g
+• Gorduras: 0.2g
+• Carboidratos: 9.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+68. Tiramissu
+-------------
+
+INGREDIENTES (1kg base):
+• De Queijo Mascarpone: 238.1g
+• ½ Xícara De Açúcar: 119.0g
+• Ovos Grandes Gemas E Claras Separadas: 285.7g
+• Em Uma Tigela De Tamanho Médio, Bata As Gemas E Acrescente O Açúcar E O Rum.: 119.0g
+• Use Uma Colher Para Colocar O Queijo Mascarpone Nas Claras E Misture Devagar.: 238.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.905
+• Peso final estimado: 904.7g
+• Perda de peso: 9.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 98.1 kcal
+• Proteínas: 7.0g
+• Gorduras: 7.4g
+• Carboidratos: 0.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+69. Torta Salgada
+-----------------
+
+INGREDIENTES (1kg base):
+• Óleo De Girasso: 200.0g
+• Iogurte Desnatado: 800.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.911
+• Peso final estimado: 911.1g
+• Perda de peso: 8.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 176.8 kcal
+• Proteínas: 0.0g
+• Gorduras: 20.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+70. Torta de Banana
+-------------------
+
+INGREDIENTES (1kg base):
+• Suco De Limão: 909.1g
+• Montar Com O Creme Primeiro E Colocar As Maçãs Cortadas( Já Colocar O Suco De Limão) E Polvilhar Canela E Açucar.: 90.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+71. Tortinha de Goiabada com Cream Cheese
+-----------------------------------------
+
+INGREDIENTES (1kg base):
+• Manteiga: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 717.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 81.0g
+• Carboidratos: 0.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+72. Vagem com Ovos
+------------------
+
+INGREDIENTES (1kg base):
+• Vagem: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+73. Kafta de Carne
+------------------
+
+INGREDIENTES (1kg base):
+• Mussarela Recheio: 200.0g
+• Carne Crua: 800.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.797
+• Peso final estimado: 797.2g
+• Perda de peso: 20.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 200.0 kcal
+• Proteínas: 20.8g
+• Gorduras: 12.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+74. Abobrinha Recheada (ok)
+---------------------------
+
+INGREDIENTES (1kg base):
+• Abobrinha Italia: 116.1g
+• Abobrinha Italia Extra: 116.1g
+• Sal: 2.3g
+• Alho: 3.5g
+• Azeite Refogar: 9.3g
+• Cebola: 23.2g
+• Tomate: 69.7g
+• Queijo mussarela: 23.2g
+• Manjericão: 2.3g
+• Molho de tomate: 69.7g
+• Queijo parmesão: 18.6g
+• Abobrinha: 116.1g
+• Molho: 23.2g
+• Arroz: 69.7g
+• Óleo: 11.6g
+• Água: 116.1g
+• Batata Palha: 92.9g
+• Queijo: 23.2g
+• Batata: 92.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.01
+• Peso final estimado: 1009.7g
+• Ganho de peso: 1.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 58.5 kcal
+• Proteínas: 1.6g
+• Gorduras: 2.8g
+• Carboidratos: 7.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+75. Baby Beef a Parmeggiana (ok)
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Alho: 33.0g
+• Pimenta Molho: 219.8g
+• Ervilha Fresca Refogada: 329.7g
+• Ervilha: 329.7g
+• Azeite: 87.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.894
+• Peso final estimado: 893.6g
+• Perda de peso: 10.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 77.7 kcal
+• Proteínas: 0.0g
+• Gorduras: 8.8g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+76. Bife a Rolê
+---------------
+
+INGREDIENTES (1kg base):
+• Cenoura: 193.5g
+• Bacon: 96.8g
+• Farinha De Arroz: 193.5g
+• Mandioca Ao Alho: 258.1g
+• Mandioca: 258.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.196
+• Peso final estimado: 1195.5g
+• Ganho de peso: 19.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 7-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 33.1 kcal
+• Proteínas: 0.7g
+• Gorduras: 0.1g
+• Carboidratos: 7.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+77. Carne na Cerveja Preta
+--------------------------
+
+INGREDIENTES (1kg base):
+• Oleo De Soja: 500.0g
+• Molho Shoyo: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+78. Mandioca Cozida
+-------------------
+
+INGREDIENTES (1kg base):
+• Arroz Temperado: 400.0g
+• Calabresa: 266.7g
+• Milho verde: 133.3g
+• Ervilha Fresca: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 1.599
+• Peso final estimado: 1598.8g
+• Ganho de peso: 59.9%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 9-11 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 52.0 kcal
+• Proteínas: 1.1g
+• Gorduras: 0.1g
+• Carboidratos: 11.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+79. Tutu de Feijão
+------------------
+
+INGREDIENTES (1kg base):
+• Feijão carioca: 200.0g
+• Farinha de mandioca: 400.0g
+• Couve Refogada: 200.0g
+• Couve: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.193
+• Peso final estimado: 1192.7g
+• Ganho de peso: 19.3%
+• Tempo de preparo: 120-180 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 7-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 25.4 kcal
+• Proteínas: 1.8g
+• Gorduras: 0.1g
+• Carboidratos: 4.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+80. Filé de Frango à Milanesa (ok)
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Paprica Da Farinha: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+81. Filé de Peixe a Milanesa
+----------------------------
+
+INGREDIENTES (1kg base):
+• File De Peixe Descongelado: 122.4g
+• Abóbora Cabotiá: 153.0g
+• Abobrinha: 153.0g
+• Parmesão Ralado: 30.6g
+• Tomate: 91.8g
+• Molho de tomate: 91.8g
+• Leite De Coco: 76.5g
+• Cebola: 30.6g
+• Farinha de trigo: 30.6g
+• Alho Fesco: 4.6g
+• Leite: 76.5g
+• Azeite: 12.2g
+• Pimenta: 0.9g
+• Sal: 3.1g
+• Peixe: 122.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.875
+• Peso final estimado: 874.9g
+• Perda de peso: 12.5%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 74.8 kcal
+• Proteínas: 6.3g
+• Gorduras: 4.4g
+• Carboidratos: 2.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+82. Linguiça Toscana
+--------------------
+
+INGREDIENTES (1kg base):
+• Linguiça: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+83. Sobrecoxa de Frango Desossada
+---------------------------------
+
+INGREDIENTES (1kg base):
+• Brócolis Cremoso: 400.0g
+• Brócolis: 400.0g
+• Farinha Trigo: 100.0g
+• Parmesão Cobertura: 100.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+84. Ragú de Fraldinha
+---------------------
+
+INGREDIENTES (1kg base):
+• De Carne Suja: 476.2g
+• Alho Poró: 17.9g
+• Alho Inteiro: 17.9g
+• Sal Da Agua: 11.9g
+• Molho De Carne: 476.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.783
+• Peso final estimado: 783.3g
+• Perda de peso: 21.7%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 238.1 kcal
+• Proteínas: 24.8g
+• Gorduras: 14.3g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+85. Strogonoff de Carne (ok)
+----------------------------
+
+INGREDIENTES (1kg base):
+• Alho Cozimento: 12.1g
+• Cebola Cozimento: 81.0g
+• Sal Cozimento: 8.1g
+• Molho Inglês: 8.1g
+• Extrato De Tomate: 242.9g
+• Carne: 323.9g
+• Batata: 323.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.835
+• Peso final estimado: 835.2g
+• Perda de peso: 16.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 113.5 kcal
+• Proteínas: 9.4g
+• Gorduras: 4.9g
+• Carboidratos: 7.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+86. Strogonoff de Frango (ok)
+-----------------------------
+
+INGREDIENTES (1kg base):
+• Filé de frango: 615.4g
+• Leite B: 384.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.824
+• Peso final estimado: 824.2g
+• Perda de peso: 17.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 117.7 kcal
+• Proteínas: 20.4g
+• Gorduras: 2.6g
+• Carboidratos: 1.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+87. Strogonoff de Berinjela
+---------------------------
+
+INGREDIENTES (1kg base):
+• Berinjela: 994.0g
+• Pimenta-do-reino: 6.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.849
+• Peso final estimado: 849.1g
+• Perda de peso: 15.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+88. Batata Palha
+----------------
+
+INGREDIENTES (1kg base):
+• Mussarela Com Presunto: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+89. Creme de Brócolis
+---------------------
+
+INGREDIENTES (1kg base):
+• Sal Brocolis: 153.8g
+• Alho Brocolis: 230.8g
+• Azeite Brocolis: 615.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.999
+• Peso final estimado: 999.5g
+• Perda de peso: 0.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 544.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 61.5g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+90. Abadejo com Molho de Camarao
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Sal: 6.4g
+• Suco De Limão: 19.1g
+• Peixe: 254.3g
+• Alho: 9.5g
+• Azeite: 25.4g
+• Molho: 63.6g
+• Camarão: 190.7g
+• Alho Camarao: 9.5g
+• Sal Camarao: 6.4g
+• Pimenta Do Reino Camarao: 1.9g
+• Creme De Leite Fresco: 158.9g
+• Tomate Sem Semente: 190.7g
+• Sal Molho: 63.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.862
+• Peso final estimado: 862.3g
+• Perda de peso: 13.8%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 84.9 kcal
+• Proteínas: 6.3g
+• Gorduras: 5.8g
+• Carboidratos: 1.5g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+91. Abadejo com Legumes
+-----------------------
+
+INGREDIENTES (1kg base):
+• De Peixe: 569.0g
+• Cenoura Baby: 426.7g
+• Pimenta-do-reino: 4.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.814
+• Peso final estimado: 813.7g
+• Perda de peso: 18.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 134.7 kcal
+• Proteínas: 12.9g
+• Gorduras: 6.9g
+• Carboidratos: 4.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+92. Abobrinha Recheada com Carne
+--------------------------------
+
+INGREDIENTES (1kg base):
+• *lavar E Cortar As Abobrinhas Com Aproximadamente 2cm: 68.1g
+• Abobrinha: 68.1g
+• *misturar O Sal Abobrinha Com O Caldo De Legumes Em Pó: 68.1g
+• *salpicar Essa Mistura Sobre As Assadeiras, Espalhar As Abobrinha E Colocar Tempero Sobre As Rodelas: 68.1g
+• Sal Abobrinha: 68.1g
+• Coxão duro: 54.5g
+• *moer A Carne Previamente Limpa E Adicionar Tempero Pronto: 54.5g
+• Tempero Pronto: 0.7g
+• *aquecer O Oleo Em Uma Panela E Fritar A Carne Ate Que Seque A Toda Agua E Fique Dourada: 54.5g
+• Oleo De Girassol P/ Carne: 54.5g
+• *em Outra Panela Fritar Cebola E Tomate, Depois Juntar Esse Ingredientes A Carne Moida: 54.5g
+• Cebola: 13.6g
+• *conferir O Sal E Adicionar Oregano: 1.4g
+• Tomate: 40.9g
+• Alho: 2.0g
+• *afundar Os Centros Das Abobrinhas: 68.1g
+• Molho De Tomate Da Carne: 54.5g
+• *rechear Com A Carne Moida: 54.5g
+• Farinha De Arroz: 40.9g
+• Sal Final: 1.4g
+• Molho de tomate: 40.9g
+• Queijo mussarela: 13.6g
+• Carne Moida: 54.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.92
+• Peso final estimado: 920.1g
+• Perda de peso: 8.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 111.2 kcal
+• Proteínas: 10.7g
+• Gorduras: 6.0g
+• Carboidratos: 2.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+93. Arroz à Grega
+-----------------
+
+INGREDIENTES (1kg base):
+• *picar Em Cubos (cachorinho) A Cenoura, Pimentões: 142.2g
+• Cenoura: 142.2g
+• *ralar A Cebola E Fritar Na Margarina Com Oleo, Adicionando: Alho, Cenoura(deixar Cozinhar Ate Que Fique Ao Dente), Vagem, Pimentões E O Sal: 142.2g
+• Vagem: 142.2g
+• Sal Refogado: 4.7g
+• Arroz Caipira: 142.2g
+• Bacon: 71.1g
+• Calabresa: 94.8g
+• Milho verde: 47.4g
+• Ervilha Fresca: 71.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.127
+• Peso final estimado: 1127.3g
+• Ganho de peso: 12.7%
+• Tempo de preparo: 25-30 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 6-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 35.8 kcal
+• Proteínas: 0.8g
+• Gorduras: 0.1g
+• Carboidratos: 8.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Proporção água/arroz fundamental para textura adequada
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+94. Arroz Integral
+------------------
+
+INGREDIENTES (1kg base):
+• *adicionar Agua Até Que Passe 3 Dedos Da Altura Do Arroz E Deixar Cozinhar Em Fogo Alto, Com A Tampa Entreaberta, Ate Que A Agua Chegue Na Altura Do Arroz: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 2.588
+• Peso final estimado: 2588.2g
+• Ganho de peso: 158.8%
+• Tempo de preparo: 25-30 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 15-17 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 130.0 kcal
+• Proteínas: 2.7g
+• Gorduras: 0.3g
+• Carboidratos: 28.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+• Proporção água/arroz fundamental para textura adequada
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+95. Baby Beef ao Molho de Alho
+------------------------------
+
+INGREDIENTES (1kg base):
+• *limpar A Carne E Fatiar Com Espessura De 1,5cm: 204.3g
+• *temperar Usando Amaciante, Tempero Pronto E Pimenta: 1.5g
+• *na Mesma Panela Cozinhar O Alho No Leite Por 15min Após Levantar Fervura: 7.7g
+• *voltar Para A Panela E Adicionar: Creme De Leite, Farinha Dissolvida No Leite, Requeijão, Azeite E O Sal: 20.4g
+• Pimenta Molho: 51.1g
+• Embalagem Pequena: 150gr De Carne E 100gr De Molho: 204.3g
+• Leite B: 127.7g
+• Embalagem Grande: 300gr De Carne E 200gr De Molho: 204.3g
+• Creme de leite: 127.7g
+• Requeijão Cremoso: 51.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.865
+• Peso final estimado: 865.4g
+• Perda de peso: 13.5%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 182.3 kcal
+• Proteínas: 16.8g
+• Gorduras: 11.5g
+• Carboidratos: 1.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+96. Baby Beef à Parmegiana
+--------------------------
+
+INGREDIENTES (1kg base):
+• Carne: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.794
+• Peso final estimado: 794.1g
+• Perda de peso: 20.6%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 250.0 kcal
+• Proteínas: 26.0g
+• Gorduras: 15.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+97. Baby Beef à Milanesa
+------------------------
+
+INGREDIENTES (1kg base):
+• Carne Suja: 500.0g
+• Amaciante De Carnes: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.794
+• Peso final estimado: 794.1g
+• Perda de peso: 20.6%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 250.0 kcal
+• Proteínas: 26.0g
+• Gorduras: 15.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+98. Bacalhau Gouda
+------------------
+
+INGREDIENTES (1kg base):
+• *dessalgar O Bacalhau De Um Dia Pro Outro Na Geladeira: 69.0g
+• *limpar Os Peixes Removendo Os Espinhos E Escorrer A Agua: 92.0g
+• *fritar Em Azeite O Alho E Depois O Bacalhau: 69.0g
+• Bacalhau Em Lasca: 69.0g
+• *descascar E Ralar As Batatas No Ralador De Disco: 92.0g
+• *lavar As Batatas Raladas Trocando As Agua Duas Vezes E Escorrer Toda Agua Depois: 92.0g
+• *fritar Em Margarina A Cebola, Adicionar As Batatas E Refogar Por 5 Min: 92.0g
+• *adicionar O Creme De Leite De Deixar Cozinhar Por Mais 5 Min: 57.5g
+• *colocar O Bacalhau, O Quejo Gouda Ralado E A Salsa: 69.0g
+• Batata: 92.0g
+• *conferir O Sal, E Se Necessario Colocar A Agua Do Bacalhau Reservada Anteriormente: 69.0g
+• Queijo Golda: 23.0g
+• Parmesão Cobertura: 23.0g
+• *limpar E Fatiar A Carne Com Espessura De 0,5cm: 92.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.792
+• Peso final estimado: 791.9g
+• Perda de peso: 20.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 136.3 kcal
+• Proteínas: 5.5g
+• Gorduras: 9.7g
+• Carboidratos: 6.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+99. Bife à Rolê
+---------------
+
+INGREDIENTES (1kg base):
+• *descascar E Cortar A Cenoura Em Palitos (cachorrinho): 142.9g
+• *fatiar O Bacon Congelado Na Maquina: 71.4g
+• *rechear Com Aproximadamente Uma Fatia De Bacon E Três Palitos De Cenoura: 71.4g
+• *dourar Na Panela A Os Bifes Enrrolados, Aos Poucos E Reservar: 190.5g
+• *fritar A Cebola Ralada Na Panela Com Oleo E Colocar Os Bifes Dourados,adicionar O Molho De Tomate, Cobrir Com Agua Quente E Deixar Cozinhar Por 2 Horas: 142.9g
+• *colocar O Bifes Para Dar Choque Termico E Depois Remover Os Palitos De Madeira: 190.5g
+• *adicionar Farinha De Trigo (dissolvida Em Agua) No Caldo Que Cozinhou A Carne, Deixar Ferver Por 15min E Conferir O Sal: 190.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.831
+• Peso final estimado: 830.7g
+• Perda de peso: 16.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 59.0 kcal
+• Proteínas: 5.3g
+• Gorduras: 2.9g
+• Carboidratos: 2.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+100. Brócolis Refogado
+----------------------
+
+INGREDIENTES (1kg base):
+• *limpar E Picar Os Brocolis, E Deixar De Molho Em Agua Fervendo Por 5min: 465.1g
+• *refogar Em Azeite O Alho E O Brocolis, Adicionar O Sal: 69.8g
+• * 150gr De Brocolis + 30gr De Mussarela + 70gr De Requeijão: 465.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.891
+• Peso final estimado: 890.8g
+• Perda de peso: 10.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 61.7 kcal
+• Proteínas: 0.0g
+• Gorduras: 7.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+101. Cenoura e Ervilha Fresca Refogadas
+---------------------------------------
+
+INGREDIENTES (1kg base):
+• *cortar A Cenoura Em Cubos (cachorrinho): 370.4g
+• *fritar Alho No Oleo E Adicionar A Cenoura: 370.4g
+• *quando A Cenoura Estiver Ao Dente, Adicionar A Ervilha: 185.2g
+• *adicionar E Conferir O Sal: 12.3g
+• Óleo de girassol: 61.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.939
+• Peso final estimado: 939.4g
+• Perda de peso: 6.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 92.5 kcal
+• Proteínas: 0.8g
+• Gorduras: 6.4g
+• Carboidratos: 9.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+102. Caldo de Ervilha com Calabresa
+-----------------------------------
+
+INGREDIENTES (1kg base):
+• *lavar E Selecionar As Ervilhas: 211.3g
+• *cortar As Calabresas Em Meia Lua Com Espessura De 0,2cm: 281.7g
+• *na Mesma Panela Fritar Cebola E Alho, Retornar A Calabresa E A Ervilha Batida: 281.7g
+• *adicionar E Conferia Sal E Pimenta: 14.1g
+• Ervilha Partida: 211.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.902
+• Peso final estimado: 902.2g
+• Perda de peso: 9.8%
+• Tempo de preparo: 45-60 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 11.3 kcal
+• Proteínas: 0.3g
+• Gorduras: 0.0g
+• Carboidratos: 2.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+103. Caldo de Feijão com Bacon
+------------------------------
+
+INGREDIENTES (1kg base):
+• Extrato De Tomate: 333.3g
+• *cortar Os Bacons Em Quadradinhos De 2x2cm Com Espessura De 0,2cm: 166.7g
+• *na Mesma Panela Fritar Com O Oleo, Cebola E Alho, Retornar O Feijão Batido E O Bacon: 166.7g
+• *adicionar E Conferia Sal, Louro, Molho De Tomate E A Pimenta: 333.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.776
+• Peso final estimado: 776.5g
+• Perda de peso: 22.4%
+• Tempo de preparo: 120-180 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 33.2 kcal
+• Proteínas: 2.1g
+• Gorduras: 0.2g
+• Carboidratos: 6.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+104. Caldo de Mandioca com Costela
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Mandioca Em Cubo: 666.7g
+• Costela De Boi Com Osso: 166.7g
+• Pimenta Molho Final: 166.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 45-60 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+105. Creme Equilibrio com Frango
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Cebola Cozida: 60.8g
+• Alho Cozido: 9.1g
+• Chuchu: 304.0g
+• Berinjela: 304.0g
+• Alho Poro: 9.1g
+• Alho Fresco Frito: 9.1g
+• Cebola Frita: 60.8g
+• Filé de frango: 243.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.833
+• Peso final estimado: 832.8g
+• Perda de peso: 16.7%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 45.0 kcal
+• Proteínas: 7.7g
+• Gorduras: 0.9g
+• Carboidratos: 1.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+106. Canja
+----------
+
+INGREDIENTES (1kg base):
+• Peito de frango: 209.1g
+• Batata: 209.1g
+• Chuchu: 261.4g
+• Cenoura: 156.8g
+• Pimenta-do-reino: 1.6g
+• Vagem: 156.8g
+• Sal: 5.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.856
+• Peso final estimado: 856.5g
+• Perda de peso: 14.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 57.0 kcal
+• Proteínas: 7.0g
+• Gorduras: 0.8g
+• Carboidratos: 5.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+107. Creme de Cabocha
+---------------------
+
+INGREDIENTES (1kg base):
+• *fritar No Azeite A Cebola Ralada E O Alho Picado (fresco): 444.4g
+• *adicionar E Conferir O Sal E A Paprica Doce: 44.4g
+• Cebola Cozimento: 444.4g
+• Alho Fresco Cozimento: 66.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.887
+• Peso final estimado: 886.9g
+• Perda de peso: 11.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 35.6 kcal
+• Proteínas: 1.0g
+• Gorduras: 0.1g
+• Carboidratos: 8.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+108. Creme de Cabotia com Carne
+-------------------------------
+
+INGREDIENTES (1kg base):
+• Espinafre: 666.7g
+• Pimenta Molho: 333.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.811
+• Peso final estimado: 811.0g
+• Perda de peso: 18.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+109. Caldo de Mandioquinha com Provolone
+----------------------------------------
+
+INGREDIENTES (1kg base):
+• *fritar No Azeite, Cebola Ralada E Alho Picado. Adicionar A Mandioquinha Batida: 188.7g
+• *temperar Com Noz Moscada, Sal, Salsa Picada E Margarina: 37.7g
+• Agua Da Mandioca: 754.7g
+• *conferir O Sal: 18.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.909
+• Peso final estimado: 909.0g
+• Perda de peso: 9.1%
+• Tempo de preparo: 45-60 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 7.5 kcal
+• Proteínas: 0.2g
+• Gorduras: 0.0g
+• Carboidratos: 1.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+110. Caldo de Palmito
+---------------------
+
+INGREDIENTES (1kg base):
+• Leite Semi: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 1.006
+• Peso final estimado: 1005.9g
+• Ganho de peso: 0.6%
+• Tempo de preparo: 45-60 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+111. Carne de Panela com Mandioca
+---------------------------------
+
+INGREDIENTES (1kg base):
+• Mandioca: 800.0g
+• Molho: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+112. Caneloni de Alho Poró e Abobrinha
+--------------------------------------
+
+INGREDIENTES (1kg base):
+• *defolhar E Lavar O Espinafre: 102.3g
+• *colocar Na Masseira A Farinha, O Ovo E O Espinafre Batido. Ajustar O Ponto Com Farinha Ou Ovo: 102.3g
+• Alho Poró: 7.7g
+• *picar Em Cubos A Abobrinha (cachorrinho): 255.8g
+• *fatiar O Alho Poró E Colocar Na Agua Fervendo. Escorrer E Reservar: 7.7g
+• Alho Fresco: 7.7g
+• *fritar No Oleo O Alho E Juntar A Abobrinha (deixar Cozinhar) E Adicionar O Alho Poró: 255.8g
+• Molho Branco: 51.2g
+• *adicionar A Mussarela Ralada E Conferir O Sal: 5.1g
+• Molho Vermelho: 51.2g
+• Mussarela Cobertura: 51.2g
+• *misturar Os Molhos Branco E Vermelho: 51.2g
+• *molho Até 335gr E 15gr De Mussarela Ralada Cobrindo: 51.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.876
+• Peso final estimado: 875.5g
+• Perda de peso: 12.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 8.7 kcal
+• Proteínas: 0.6g
+• Gorduras: 0.2g
+• Carboidratos: 1.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+113. Caneloni de Tomate Seco e Requeijão Cremoso
+------------------------------------------------
+
+INGREDIENTES (1kg base):
+• Queijo Fresco: 111.1g
+• *ralar Mussarela E Queijos Fresco: 111.1g
+• *juntar O Requeijão, O Tomate Seco E O Sal: 333.3g
+• Tomate Seco: 333.3g
+• *molho Até 345gr E 15gr De Mussarela Ralada Cobrindo: 111.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.857
+• Peso final estimado: 857.0g
+• Perda de peso: 14.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 37.1 kcal
+• Proteínas: 2.2g
+• Gorduras: 2.1g
+• Carboidratos: 2.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+114. Costelinha ao Molho Barbecue
+---------------------------------
+
+INGREDIENTES (1kg base):
+• *fazer Uma Marinada Misturando Sal, Pimenta, Salsa, Oleo, Agua E Alho: 9.2g
+• Molho:: 61.1g
+• *fritar Em Oleo A Cebola Roxa Picada (cachorrinho): 61.1g
+• *adicionar O Alho Amaçado Refogar Por 5min: 9.2g
+• *adicionar Mel, Gengibre Picado Grosseiramente, Mostarda Djon, Molho Ingles, Catchup E O Tomate: 183.2g
+• *adicionar A Paprica E A Pimenta Do Reino E Deixa Cozinhar Por 30 Min: 1.8g
+• *peineirar O Molho E Voltar Pra Panela Pra Apurar: 61.1g
+• Oleo Pra Fritar Cebola: 61.1g
+• Assar A Carne:: 244.2g
+• Cebola roxa: 48.8g
+• *espalhar Na Assadeira As Costelas Já Temperadas E Passar O Molho Sobre Elas: 61.1g
+• Alho Amaçado: 9.2g
+• *cortar A Costela Em Tirar De Dois Em Dois Ossos: 61.1g
+• *embalagem Pequena: 180gr De Costela + 70 Gr De Molho: 61.1g
+• *embalagem Grande: 360gr De Costela + 140gr De Molho: 61.1g
+• Molho inglês: 6.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.866
+• Peso final estimado: 865.9g
+• Perda de peso: 13.4%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Difícil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 71.2 kcal
+• Proteínas: 6.7g
+• Gorduras: 3.7g
+• Carboidratos: 2.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+115. Croquete de Bacalhau
+-------------------------
+
+INGREDIENTES (1kg base):
+• Bacalhau Desfiado: 625.0g
+• Azeite De Dendê: 83.3g
+• Molho De Pimenta: 208.3g
+• Azeite: 83.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.776
+• Peso final estimado: 776.4g
+• Perda de peso: 22.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 147.3 kcal
+• Proteínas: 0.0g
+• Gorduras: 16.7g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+116. Damasco com Cream Cheese
+-----------------------------
+
+INGREDIENTES (1kg base):
+• *colocar Na Masseira A Farinha E O Sal, Junto Com A Gordura E A Margarina, Ambas Geladas: 545.5g
+• *colocar No Molde De Salgado: 90.9g
+• Pincelar Com A Mistura De Ovos Na Proporção: 1 Gema + 1 Ovo Inteiro + Fil De Azeite: 363.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.979
+• Peso final estimado: 978.8g
+• Perda de peso: 2.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 56.4 kcal
+• Proteínas: 4.7g
+• Gorduras: 4.0g
+• Carboidratos: 0.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+117. Escondidinho de Bacalhau
+-----------------------------
+
+INGREDIENTES (1kg base):
+• *cozinhar A Mandioca Ate Que Fique Bem Macia: 113.6g
+• Leite De Côco: 71.0g
+• *adicionar Creme De Leite, Leite De Coco E Sal: 71.0g
+• *escorrer A Agua Dessa Fritada E Reservar O Peixe: 113.6g
+• *refogar Na Margarina Cebola E Tomates Picados: 85.2g
+• *retornar O Bacalhau E Temperar Com: Azeitona, Pimenta, Azeite De Dende E Salsa: 85.2g
+• Azeite Dendê: 11.4g
+• *uma Camada De Massa De Mandioca Na Base Suficiente Pra Cobrir O Fundo Da Bandeja: 113.6g
+• Queijo parmesão: 22.7g
+• *cobrir Com Requeijão: 28.4g
+• *outra Camada De Massa De Mandioca: 113.6g
+• *conferir O Peso Na Balança De 340 + 10 De Parmesão (pequena): 28.4g
+• *conferir O Peso Na Balança De 630 + 20 De Parmesão (grande): 28.4g
+• Bacalhau: 85.2g
+• Requeijão: 28.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.233
+• Peso final estimado: 1232.9g
+• Ganho de peso: 23.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 7-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 118.9 kcal
+• Proteínas: 3.2g
+• Gorduras: 11.4g
+• Carboidratos: 1.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+118. Escondidinho de Brócolis
+-----------------------------
+
+INGREDIENTES (1kg base):
+• *refogar Em Oleo O Alho E O Brocolis, Adicionar O Sal: 14.8g
+• *ralar A Mussarela: 98.5g
+• Brócolis: 394.1g
+• Sal Brócolis: 394.1g
+• *cobrir Com Mussarela: 98.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.882
+• Peso final estimado: 882.3g
+• Perda de peso: 11.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+119. Escondidinho de Carne Seca
+-------------------------------
+
+INGREDIENTES (1kg base):
+• *dessalgar A Carne Seca Em Agua Quente Trocando A Agua 1 Vez: 200.0g
+• *limpar A Carne Removendo As Gorduras E Nervos: 200.0g
+• *fritar Em Margarina E Oleo A Cebola, O Alho E O Tomate Picados: 150.0g
+• *adicionar A Carne, Pimenta E Salsa: 200.0g
+• Carne seca: 200.0g
+• Requeijão Cremosos: 50.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.797
+• Peso final estimado: 797.2g
+• Perda de peso: 20.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 202.7 kcal
+• Proteínas: 20.9g
+• Gorduras: 12.0g
+• Carboidratos: 0.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+120. Escondidinho de Camarão
+----------------------------
+
+INGREDIENTES (1kg base):
+• *limpar O Camarão Retirando O Rabo E Escorrer: 148.1g
+• *temperar Com Alho, Sal E Pimenta Do Reino: 7.4g
+• *fritar Aos Poucos Em Azeite O Camarão Utilizando As Frigideiras E Fogo Alto: 148.1g
+• *adicionar Os Camarão, Salsa, Molho De Pimenta E Azeite De Dende: 148.1g
+• Sal: 4.9g
+• *separar Os Camarões Do Molho Com A Ajuda De Uma Paneira: 49.4g
+• Camarão Congelado: 148.1g
+• *porcionar O Molho Na Balança Usando A Proporção 95g Na Pequena E 155g Na Grande: 49.4g
+• *adicionar O Requeijão 50g Na Pequeca E 90g Na Grande: 49.4g
+• *cobrir Com Mandioca Até 360g Na Pequena E 660g Na Grande: 197.5g
+• *parmesão Sendo 13g Na Pequena E 20g Na Grande: 49.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.821
+• Peso final estimado: 820.6g
+• Perda de peso: 17.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 261.8 kcal
+• Proteínas: 0.0g
+• Gorduras: 29.6g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+121. Esfiha de Calabresa
+------------------------
+
+INGREDIENTES (1kg base):
+• *adicionar Agua E Leite Morno: 221.2g
+• *adicionar Os Ovos E O Oleo: 106.2g
+• *colocar 5,5kg De Farinha Na Masseira, O Sal E A Mistura Acima: 8.8g
+• Leite: 221.2g
+• *ralar A Calabresa: 177.0g
+• *adicionar Cebola Ralada, Tomate Picado E O Requeijão: 265.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.927
+• Peso final estimado: 927.2g
+• Perda de peso: 7.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 39.8 kcal
+• Proteínas: 3.1g
+• Gorduras: 1.7g
+• Carboidratos: 3.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+122. Esfiha de Carne
+--------------------
+
+INGREDIENTES (1kg base):
+• *limpar E Moer A Carne Junto Com A Cebola: 526.3g
+• *adicionar O Tomate Picado, Pimenta Do Reino, Pimenta Molho, Suco De Limão: 394.7g
+• Limão: 39.5g
+• Sal Recheio: 13.2g
+• *conferir O Sal E A Pimenta: 13.2g
+• Sal Extra Final: 13.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.811
+• Peso final estimado: 811.2g
+• Perda de peso: 18.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 138.7 kcal
+• Proteínas: 14.0g
+• Gorduras: 8.0g
+• Carboidratos: 1.5g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+123. Assado de Frango
+---------------------
+
+INGREDIENTES (1kg base):
+• Óleo Fritar O Frango: 421.1g
+• Agua Dissolver Farinha: 105.3g
+• Leite Dissolver A Farinha: 263.2g
+• Requeijão Recheio: 105.3g
+• Requeijão Extra Montagem: 105.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.765
+• Peso final estimado: 765.3g
+• Perda de peso: 23.5%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 80.5 kcal
+• Proteínas: 13.9g
+• Gorduras: 1.8g
+• Carboidratos: 1.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+124. Esfiha de Escarola
+-----------------------
+
+INGREDIENTES (1kg base):
+• *refogar A Escarola No Azeite Com Alho: 63.8g
+• Sal Esccarola: 42.6g
+• *adicionar O Sal: 42.6g
+• Queijo Fresco: 425.5g
+• *adicionar A Mussarela, O Requeijão E O Queijo Fresco: 425.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.947
+• Peso final estimado: 947.2g
+• Perda de peso: 5.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 152.6 kcal
+• Proteínas: 6.0g
+• Gorduras: 14.0g
+• Carboidratos: 0.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+125. Feijoada
+-------------
+
+INGREDIENTES (1kg base):
+• Feijão preto: 975.6g
+• Tempero Pronto Pernil: 24.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 2.348
+• Peso final estimado: 2348.3g
+• Ganho de peso: 134.8%
+• Tempo de preparo: 120-180 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 13-16 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 123.9 kcal
+• Proteínas: 8.8g
+• Gorduras: 0.5g
+• Carboidratos: 22.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+126. Filé de Frango a Pizzaiolo
+-------------------------------
+
+INGREDIENTES (1kg base):
+• *limpar E Fatiar Os Filé De Frango Com Espessura De 0,3cm: 362.0g
+• *temperar Com Tempero Pronto: 4.5g
+• *refogar Em Azeite O Alho E O Tomate Sem Semente: 271.5g
+• *adicionar Azeitona Verde Batida Na Faca E O Molho De Tomate: 271.5g
+• *embalagem Com 150gr De Filé + 90gr De Molho + 10gr De Mussarela + Pitada De Oregano: 90.5g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.796
+• Peso final estimado: 796.4g
+• Perda de peso: 20.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 69.5 kcal
+• Proteínas: 11.7g
+• Gorduras: 1.4g
+• Carboidratos: 2.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+127. Filé de Frango com Requeijão
+---------------------------------
+
+INGREDIENTES (1kg base):
+• *na Panela Que Fritou O Frango Derreter A Margarina E Adicionar A Farinha: 304.2g
+• *adicionar O Requeijão E O Sal: 76.0g
+• *adicionar O Creme De Leite: 190.1g
+• Frango: 304.2g
+• Sal Alho Poró: 11.4g
+• Molho: 76.0g
+• Óleo Girassol: 38.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.825
+• Peso final estimado: 824.7g
+• Perda de peso: 17.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 142.0 kcal
+• Proteínas: 19.5g
+• Gorduras: 6.2g
+• Carboidratos: 1.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+128. Filé de Peixe à Parmegiana
+-------------------------------
+
+INGREDIENTES (1kg base):
+• *bater Cada Duzia De Ovos Junto Com 1 Copos De Agua: 84.5g
+• *empanar Utiliando A Ordem: Farinha De Trigo > Ovo > Farinha De Rosca: 70.4g
+• File De Peixe Descongelado: 281.7g
+• Embalagens Pequenas: 75 Gr De Carne, 125 Gr De Molho E 30 Gr De Mussarela: 281.7g
+• Embalagens Grandes: 150 Gr De Carne, 250 Gr De Molho E 60 Gr De Mussarela: 281.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Empanado
+• Fator de rendimento: 0.796
+• Peso final estimado: 795.6g
+• Perda de peso: 20.4%
+• Tempo de preparo: 20-25 min
+• Temperatura: 170-180°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 212.0 kcal
+• Proteínas: 21.9g
+• Gorduras: 12.8g
+• Carboidratos: 0.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+129. Filé de San Peter ao Molho de Limão
+----------------------------------------
+
+INGREDIENTES (1kg base):
+• *preparar Uma Marinada Com O Suco De Limão, Sl, Alho E Agua: 9.6g
+• *temperar Mergulhando O Peixe Na Marinada: 257.2g
+• *assar Em Assadeira Untada Com Margarina Light E Pincelar Margarina Sobre Os Peixes: 257.2g
+• *na Panela Derreter A Margarina Light E Adicionar A Farinha: 38.6g
+• *colocar Leite Semi Aos Poucos Pra Dissolver A Farinha: 160.8g
+• Farinha Molho: 64.3g
+• Limão Raspa: 19.3g
+• *colocar O Creme De Leite: 160.8g
+• Limão Suco: 19.3g
+• *embalagem Com 150gr De Filé + 100gr De Molho + Pitada De Salsa Picada: 12.9g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.854
+• Peso final estimado: 854.4g
+• Perda de peso: 14.6%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 119.5 kcal
+• Proteínas: 12.4g
+• Gorduras: 6.5g
+• Carboidratos: 1.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+130. Lasanha de Abobrinha
+-------------------------
+
+INGREDIENTES (1kg base):
+• Peito De Peru: 800.0g
+• Começar A Montagem Com Molho Branco: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+131. Lasanha de Carne com Gorgonzola
+------------------------------------
+
+INGREDIENTES (1kg base):
+• Carne Cortada Com Cubos De 1x2 Cm: 330.6g
+• Oleo De Soja: 82.6g
+• Sal Da Agua: 8.3g
+• Total De 4 Camadas De Carne: 330.6g
+• De Mussarela Por Camada: 82.6g
+• De Parmesão No Final: 82.6g
+• E 5 Camadas De Lasanha: 82.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.813
+• Peso final estimado: 812.8g
+• Perda de peso: 18.7%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 165.3 kcal
+• Proteínas: 17.2g
+• Gorduras: 9.9g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+132. Lombo de Porco Assado
+--------------------------
+
+INGREDIENTES (1kg base):
+• Vinagre: 800.0g
+• Tempero Completo: 200.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.828
+• Peso final estimado: 828.2g
+• Perda de peso: 17.2%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+133. Lagarto a Escabeche
+------------------------
+
+INGREDIENTES (1kg base):
+• Carne: 180.3g
+• Oleo Pra Fritar A Carne: 180.3g
+• Cebola Da Carne: 180.3g
+• Farinha De Arroz Molho: 135.2g
+• Sal Do Caldo Carne: 180.3g
+• Cebola Legumes: 45.1g
+• Pimentao Vermelho: 1.4g
+• Pimentao Amarelo: 1.4g
+• Pimentao Verde: 1.4g
+• Sal Legumes: 4.5g
+• Tirar A Gorgura Superficial Do Molho E Bater No Liquidificador: 45.1g
+• Voltar O Molho Pra Panela E Fever, Ajustar O Tempero: 45.1g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.044
+• Peso final estimado: 1043.9g
+• Ganho de peso: 4.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Difícil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 199.7 kcal
+• Proteínas: 19.2g
+• Gorduras: 10.9g
+• Carboidratos: 4.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+134. Maminha ao Molho Ferrugem
+------------------------------
+
+INGREDIENTES (1kg base):
+• Cenoura Cozimento: 300.0g
+• Tomate Cozimento: 300.0g
+• Caldo Da Carne: 400.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.858
+• Peso final estimado: 857.6g
+• Perda de peso: 14.2%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 117.7 kcal
+• Proteínas: 10.9g
+• Gorduras: 6.1g
+• Carboidratos: 4.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+135. Macarrao Molho Napolitano
+------------------------------
+
+INGREDIENTES (1kg base):
+• Sal: 9.8g
+• Manjericão: 9.8g
+• Macarrão: 294.1g
+• Agua Do Macarrão: 294.1g
+• Azeite Do Macarrão: 294.1g
+• De Molho: 98.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 2.163
+• Peso final estimado: 2162.9g
+• Ganho de peso: 116.3%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Médio
+• Rendimento: 12-14 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 115.6 kcal
+• Proteínas: 4.4g
+• Gorduras: 1.0g
+• Carboidratos: 22.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+136. Macarrao com Molho Fungi
+-----------------------------
+
+INGREDIENTES (1kg base):
+• Margarinha Molho: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.9
+• Peso final estimado: 900.0g
+• Perda de peso: 10.0%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+137. Molho Napolitano
+---------------------
+
+INGREDIENTES (1kg base):
+• Tomate pelado: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.847
+• Peso final estimado: 847.1g
+• Perda de peso: 15.3%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 18.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 3.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+138. Molho
+----------
+
+INGREDIENTES (1kg base):
+• Leite: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 1.006
+• Peso final estimado: 1005.9g
+• Ganho de peso: 0.6%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+139. Molho à Bolonhesa
+----------------------
+
+INGREDIENTES (1kg base):
+• Farinha De Arroz: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 2.647
+• Peso final estimado: 2647.1g
+• Ganho de peso: 164.7%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 15-18 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 130.0 kcal
+• Proteínas: 2.7g
+• Gorduras: 0.3g
+• Carboidratos: 28.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Ingrediente com alto ganho de volume durante o preparo
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+140. Molho Branco
+-----------------
+
+INGREDIENTES (1kg base):
+• Manteiga: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 1.006
+• Peso final estimado: 1005.9g
+• Ganho de peso: 0.6%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 717.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 81.0g
+• Carboidratos: 0.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+141. Molho de Tomate
+--------------------
+
+INGREDIENTES (1kg base):
+• Tomate: 750.0g
+• Engrossar O Molho: 250.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.86
+• Peso final estimado: 860.3g
+• Perda de peso: 14.0%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 13.5 kcal
+• Proteínas: 0.7g
+• Gorduras: 0.1g
+• Carboidratos: 2.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+142. Nhoque a Bolonhasa
+-----------------------
+
+INGREDIENTES (1kg base):
+• Nhoque: 125.0g
+• Molho: 125.0g
+• Queijo: 125.0g
+• Obs2: Cozinhar Sem Sal Na Água: 625.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 14.1 kcal
+• Proteínas: 0.9g
+• Gorduras: 1.1g
+• Carboidratos: 0.1g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+143. Molho de Tomate com Extrato
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Prato: Moqueca De Peixe: 321.3g
+• Azeite De Dende Dos Legumes: 32.1g
+• Azeite Legumes: 32.1g
+• Alho Fresco Molho: 12.0g
+• Azeite Molho: 32.1g
+• Leite De Coco: 200.8g
+• Salsa (cheiro Verde): 16.1g
+• Azeite De Dende Do Molho: 32.1g
+• Caldo Do Peixe No Molho: 321.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 0.842
+• Peso final estimado: 842.1g
+• Perda de peso: 15.8%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 254.3 kcal
+• Proteínas: 14.8g
+• Gorduras: 20.8g
+• Carboidratos: 1.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+144. Panqueca de Carne
+----------------------
+
+INGREDIENTES (1kg base):
+• Farinha: 200.0g
+• Oleo P Carne: 400.0g
+• Molho Vermelho Recheio: 100.0g
+• Farinha Recheio: 100.0g
+• Molho Até 320g: 100.0g
+• Mussarela 30g: 100.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.839
+• Peso final estimado: 838.6g
+• Perda de peso: 16.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 100.0 kcal
+• Proteínas: 10.4g
+• Gorduras: 6.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+145. Polpetone de Carne Recheado
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Carne Crua: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.776
+• Peso final estimado: 776.5g
+• Perda de peso: 22.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 250.0 kcal
+• Proteínas: 26.0g
+• Gorduras: 15.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+146. Quibe Assado Recheado
+--------------------------
+
+INGREDIENTES (1kg base):
+• *deixar O Trigo De Molho Por 1h: 116.3g
+• *escorrer O Trigo: 116.3g
+• *moer A Carne Junto Com O Trigo E O Hortelã Limpo E Defolhado: 465.1g
+• Trigo: 232.6g
+• *temperar Com Sal, Pimenta E Margarina: 69.8g
+
+DADOS TÉCNICOS:
+• Método de preparo: Assado
+• Fator de rendimento: 0.766
+• Peso final estimado: 766.1g
+• Perda de peso: 23.4%
+• Tempo de preparo: 45-60 min
+• Temperatura: 180-200°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 116.3 kcal
+• Proteínas: 12.1g
+• Gorduras: 7.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Pré-aquecer forno antes do preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+147. Quiche Loraine
+-------------------
+
+INGREDIENTES (1kg base):
+• Queijo Prato: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.932
+• Peso final estimado: 931.8g
+• Perda de peso: 6.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 113.0 kcal
+• Proteínas: 7.0g
+• Gorduras: 9.0g
+• Carboidratos: 1.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+148. Quiche de Alho Poro com Palmito
+------------------------------------
+
+INGREDIENTES (1kg base):
+• Sal Alho Poro: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.035
+• Peso final estimado: 1035.3g
+• Ganho de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+149. Ratatuille
+---------------
+
+INGREDIENTES (1kg base):
+• Temperar Com Sal E Azeite: 266.7g
+• Fritar Cebola E Alho E Juntar Aos Legumes: 666.7g
+• Ajustar O Sal: 66.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.932
+• Peso final estimado: 931.8g
+• Perda de peso: 6.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 262.4 kcal
+• Proteínas: 0.7g
+• Gorduras: 26.7g
+• Carboidratos: 6.2g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+150. Ronedelli de Marguerita
+----------------------------
+
+INGREDIENTES (1kg base):
+• Colocar Molho Ate 350: 500.0g
+• Colocar Parmesão Ate 365: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+151. Rondelli de Presunto e Queijo
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Orégano: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+152. Salmão ao Molho de Alcaparras
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Filé De Salmão: 851.1g
+• Sal: 21.3g
+• Margarina Light Molho: 127.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Cozido
+• Fator de rendimento: 1.039
+• Peso final estimado: 1038.5g
+• Ganho de peso: 3.9%
+• Tempo de preparo: 30-45 min
+• Temperatura: 100°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Manter fervura constante e controlar tempo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+153. Salmão ao Azeite e Alcaparras
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Azeite Pra Assar: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.035
+• Peso final estimado: 1035.3g
+• Ganho de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 884.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 100.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+154. Sobrecoxa Desossada com Creme de Milho
+-------------------------------------------
+
+INGREDIENTES (1kg base):
+• Creme De Milho: 333.3g
+• Sobrecoxa de frango: 666.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.776
+• Peso final estimado: 776.5g
+• Perda de peso: 22.4%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 110.0 kcal
+• Proteínas: 20.7g
+• Gorduras: 2.4g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+155. Sofiatelli de Peito de Peru ao Sugo
+----------------------------------------
+
+INGREDIENTES (1kg base):
+• Farinha Nita: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+156. Tempero Pronto
+-------------------
+
+INGREDIENTES (1kg base):
+• Páprica: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+157. Tomate Seco
+----------------
+
+INGREDIENTES (1kg base):
+• Azeite: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.035
+• Peso final estimado: 1035.3g
+• Ganho de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 884.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 100.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+158. Torta de Iogurte com Peito de Peru
+---------------------------------------
+
+INGREDIENTES (1kg base):
+• Leite Semi Desnatado: 277.8g
+• Iogurte Desnatado: 222.2g
+• Óleo De Girasso: 55.6g
+• Peito De Peru Extra: 444.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.917
+• Peso final estimado: 917.4g
+• Perda de peso: 8.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 60.8 kcal
+• Proteínas: 0.9g
+• Gorduras: 5.8g
+• Carboidratos: 1.4g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+159. Torta de Frango
+--------------------
+
+INGREDIENTES (1kg base):
+• Milho Enlatado: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+160. Torta de Palmito
+---------------------
+
+INGREDIENTES (1kg base):
+• Leite Dissolver Farinha: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.984
+• Peso final estimado: 983.5g
+• Perda de peso: 1.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 42.0 kcal
+• Proteínas: 3.4g
+• Gorduras: 1.0g
+• Carboidratos: 5.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+161. Torta de Camarão
+---------------------
+
+INGREDIENTES (1kg base):
+• Alho Temperar: 180.7g
+• Sal Temperar: 120.5g
+• Pimenta Do Reino Temp.: 36.1g
+• Azeite Fritar: 481.9g
+• Alho Recheio: 180.7g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.974
+• Peso final estimado: 973.6g
+• Perda de peso: 2.6%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 426.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 48.2g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+162. Filé Mignon Rechedo com Queijo Coalho
+------------------------------------------
+
+INGREDIENTES (1kg base):
+• Limpar Os Files, Cortar Ao Meio, Temperar E Rechear Com O Queijo Coalho: 14.6g
+• Fatiar E Montar Os Pratos Com 150 G De Carne: 388.3g
+• Cebola Fatiada: 97.1g
+• Carne: 388.3g
+• Cebola: 97.1g
+• Queijo Coalho: 14.6g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.801
+• Peso final estimado: 801.1g
+• Perda de peso: 19.9%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 205.2 kcal
+• Proteínas: 20.6g
+• Gorduras: 11.9g
+• Carboidratos: 1.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+163. Filé Mignon Grelhado ao Gorgonzola
+---------------------------------------
+
+INGREDIENTES (1kg base):
+• Limpar O File, E Fatiar Com 2 Cm Cada Bife: 625.0g
+• Temperar Com Tempero Pronto E Pimenta Molho: 156.2g
+• Grelhar Com Azeite E Fogo Forte: 62.5g
+• Gorgonzola: 156.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Grelhado
+• Fator de rendimento: 0.779
+• Peso final estimado: 778.9g
+• Perda de peso: 22.1%
+• Tempo de preparo: 15-20 min
+• Temperatura: 200-250°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 55.2 kcal
+• Proteínas: 0.0g
+• Gorduras: 6.2g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Aquecer grelha antes de adicionar os ingredientes
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+164. Torta de Palmito com Queijos
+---------------------------------
+
+INGREDIENTES (1kg base):
+• Alho: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+165. Brusqueta Alho Poró e Palmito
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Requeijão Cremeso: 500.0g
+• Mussarela Cobertura Cobertura: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+166. Brusqueta de Ragú de Linguiça
+----------------------------------
+
+INGREDIENTES (1kg base):
+• Linguiça: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+167. Brusqueta Marguerita
+-------------------------
+
+INGREDIENTES (1kg base):
+• Tomate cereja: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.828
+• Peso final estimado: 828.2g
+• Perda de peso: 17.2%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 18.0 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 3.9g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+168. Serrentino de Ragú Ossobuco
+--------------------------------
+
+INGREDIENTES (1kg base):
+• Farinha Granun Duro: 800.0g
+• Salsão: 80.0g
+• Alho Inteiro: 120.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.892
+• Peso final estimado: 892.4g
+• Perda de peso: 10.8%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+169. Serrentino de Bufala com Limão Siciliano
+---------------------------------------------
+
+INGREDIENTES (1kg base):
+• Mussarela De Bufala: 769.2g
+• Raspas De Limão Siciliano: 230.8g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+170. Serrentino de Cogumelos
+----------------------------
+
+INGREDIENTES (1kg base):
+• Salsicha: 1000.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.035
+• Peso final estimado: 1035.3g
+• Ganho de peso: 3.5%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 6-7 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+171. Pizza de Frango
+--------------------
+
+INGREDIENTES (1kg base):
+• Molho De Tomate Pizza: 428.6g
+• Frango: 571.4g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.769
+• Peso final estimado: 769.1g
+• Perda de peso: 23.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 4-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 102.0 kcal
+• Proteínas: 18.1g
+• Gorduras: 2.1g
+• Carboidratos: 1.7g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+172. Pizza de Marguerita
+------------------------
+
+INGREDIENTES (1kg base):
+• Pesto De Manjericão: 16.4g
+• Tomate Cerja: 491.8g
+• Tomate Ceraja: 491.8g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.829
+• Peso final estimado: 829.1g
+• Perda de peso: 17.1%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 17.7 kcal
+• Proteínas: 0.9g
+• Gorduras: 0.2g
+• Carboidratos: 3.8g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+173. Carne com Gorgonzola
+-------------------------
+
+INGREDIENTES (1kg base):
+• Carne Cortada Em Iscas: 400.0g
+• Carne 130g: 400.0g
+• Molho 190g: 100.0g
+• Mussarela 30g: 100.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.797
+• Peso final estimado: 797.2g
+• Perda de peso: 20.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-5 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 200.0 kcal
+• Proteínas: 20.8g
+• Gorduras: 12.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Verificar temperatura interna para segurança alimentar
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+174. Sofiateli de Queijos e Damasco
+-----------------------------------
+
+INGREDIENTES (1kg base):
+• Parmesão Molho: 500.0g
+• Requeijao Molho: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+175. Quibe Vegano
+-----------------
+
+INGREDIENTES (1kg base):
+• Mussarela Vegana: 500.0g
+• Recheio Mussarela: 500.0g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.88
+• Peso final estimado: 880.0g
+• Perda de peso: 12.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Fácil
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 0.0 kcal
+• Proteínas: 0.0g
+• Gorduras: 0.0g
+• Carboidratos: 0.0g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+176. Escondidinho Vegano de Cogumelos
+-------------------------------------
+
+INGREDIENTES (1kg base):
+• Queijo Mussarela Vegano: 333.3g
+• Requeijão Veg: 333.3g
+• Mussarela Veg: 333.3g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 0.897
+• Peso final estimado: 897.3g
+• Perda de peso: 10.3%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 5-6 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 37.7 kcal
+• Proteínas: 2.3g
+• Gorduras: 3.0g
+• Carboidratos: 0.3g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
+177. Strogonoff Vegano
+----------------------
+
+INGREDIENTES (1kg base):
+• Couve-flor: 216.2g
+• Leite De Amendoas: 135.1g
+• Requeijão Vegano: 54.1g
+• Arroz: 162.2g
+• Batata Palha: 216.2g
+• Batata: 216.2g
+
+DADOS TÉCNICOS:
+• Método de preparo: Refogado
+• Fator de rendimento: 1.16
+• Peso final estimado: 1159.9g
+• Ganho de peso: 16.0%
+• Tempo de preparo: 15-25 min
+• Temperatura: 120-150°C
+• Dificuldade: Médio
+• Rendimento: 7-8 porções
+
+INFORMAÇÕES NUTRICIONAIS (por 100g):
+• Calorias: 60.1 kcal
+• Proteínas: 1.8g
+• Gorduras: 0.2g
+• Carboidratos: 12.6g
+
+OBSERVAÇÕES TÉCNICAS:
+• Seguir procedimentos padrão de preparo
+
+Atualizado em: 2025-07-06 15:06:17
+
+============================================================
+
